@@ -9,3 +9,4 @@ omniglot.npy
 adv.npy
 *.mat
 *.py
+*.sh
