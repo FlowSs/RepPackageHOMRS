@@ -38,4 +38,17 @@ List of files:
 * `*.npy` uncertainty profile for each method (`0_t.npy`) as well as OOD/AE... considered
 * `log_thresh.txt` results obtained when running code to obtain the uncertainty profile for each method, which allow us to get the number of adversarial examples from the generated images of the method.
 
-We also give the generated images the method generated (`generated_inputs/`), as well as the models weights (`*.h5`) and the seed used (`seed.npy`) that are the same for a given dataset.
+We also give the generated images the method generated (`generated_inputs/`), as well as the models weights (`*.h5`) and the seed used (`seed.npy`) that are the same for a given dataset. We also provide the command we used while using each method implementation: DLFuzz (https://github.com/turned2670/DLFuzz), DeepXplore (https://github.com/peikexin9/deepxplore) and DistAware (https://github.com/swa112003/DistributionAwareDNNTesting).
+
+## RQ4: How does HOMRS compare in term of time complexity?
+
+We used the files in `DLFuzz/TimeComp`
+
+List files:
+
+* `log_run_{i}.txt`: the run log containing the time information (as well as coverage and number of generated images)
+
+### In Section Discussion expperiment
+
+The files used for the experiment that was done to discuss VAE limitations (see Section Discussion of the paper) can be found in `Distribution../MNIST` under `
+vae_res_thresh_adv.txt`. The adversarial dataset is the same that is present in the .zip that is situated in `HOMRS/MNIST/datasets/` which contains also the ood datasets that were used to compute the uncertainty profile.
