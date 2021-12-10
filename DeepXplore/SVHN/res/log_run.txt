@@ -1,0 +1,1493 @@
+Done 0.0 %
+[92minput already causes different outputs: 5, 5, 3[0m
+[92mcovered neurons percentage 990 neurons 0.006, 1278 neurons 0.004, 15188 neurons 0.112[0m
+[92maveraged covered neurons 0.098[0m
+[92minput already causes different outputs: 3, 9, 3[0m
+[92mcovered neurons percentage 990 neurons 0.009, 1278 neurons 0.005, 15188 neurons 0.165[0m
+[92maveraged covered neurons 0.145[0m
+[92mcovered neurons percentage 990 neurons 0.014, 1278 neurons 0.012, 15188 neurons 0.251[0m
+[92maveraged covered neurons 0.220[0m
+[92mcovered neurons percentage 990 neurons 0.016, 1278 neurons 0.013, 15188 neurons 0.310[0m
+[92maveraged covered neurons 0.272[0m
+[92minput already causes different outputs: 1, 7, 7[0m
+[92mcovered neurons percentage 990 neurons 0.018, 1278 neurons 0.014, 15188 neurons 0.331[0m
+[92maveraged covered neurons 0.290[0m
+[92mcovered neurons percentage 990 neurons 0.021, 1278 neurons 0.016, 15188 neurons 0.350[0m
+[92maveraged covered neurons 0.307[0m
+[92mcovered neurons percentage 990 neurons 0.021, 1278 neurons 0.016, 15188 neurons 0.357[0m
+[92maveraged covered neurons 0.313[0m
+[92minput already causes different outputs: 6, 6, 0[0m
+[92mcovered neurons percentage 990 neurons 0.021, 1278 neurons 0.016, 15188 neurons 0.375[0m
+[92maveraged covered neurons 0.329[0m
+[92mcovered neurons percentage 990 neurons 0.161, 1278 neurons 0.188, 15188 neurons 0.404[0m
+[92maveraged covered neurons 0.374[0m
+[92minput already causes different outputs: 6, 0, 0[0m
+[92mcovered neurons percentage 990 neurons 0.161, 1278 neurons 0.188, 15188 neurons 0.406[0m
+[92maveraged covered neurons 0.376[0m
+Done 10.0 %
+[92mcovered neurons percentage 990 neurons 0.163, 1278 neurons 0.189, 15188 neurons 0.420[0m
+[92maveraged covered neurons 0.389[0m
+[92minput already causes different outputs: 3, 3, 8[0m
+[92mcovered neurons percentage 990 neurons 0.163, 1278 neurons 0.189, 15188 neurons 0.429[0m
+[92maveraged covered neurons 0.396[0m
+[92minput already causes different outputs: 6, 5, 5[0m
+[92mcovered neurons percentage 990 neurons 0.163, 1278 neurons 0.189, 15188 neurons 0.437[0m
+[92maveraged covered neurons 0.403[0m
+[92minput already causes different outputs: 2, 2, 5[0m
+[92mcovered neurons percentage 990 neurons 0.163, 1278 neurons 0.189, 15188 neurons 0.441[0m
+[92maveraged covered neurons 0.407[0m
+[92mcovered neurons percentage 990 neurons 0.163, 1278 neurons 0.189, 15188 neurons 0.443[0m
+[92maveraged covered neurons 0.408[0m
+[92mcovered neurons percentage 990 neurons 0.163, 1278 neurons 0.189, 15188 neurons 0.448[0m
+[92maveraged covered neurons 0.412[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.189, 15188 neurons 0.458[0m
+[92maveraged covered neurons 0.422[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.189, 15188 neurons 0.464[0m
+[92maveraged covered neurons 0.427[0m
+[92minput already causes different outputs: 2, 1, 1[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.189, 15188 neurons 0.467[0m
+[92maveraged covered neurons 0.430[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.189, 15188 neurons 0.470[0m
+[92maveraged covered neurons 0.432[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.189, 15188 neurons 0.471[0m
+[92maveraged covered neurons 0.433[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.190, 15188 neurons 0.477[0m
+[92maveraged covered neurons 0.438[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.190, 15188 neurons 0.481[0m
+[92maveraged covered neurons 0.442[0m
+Done 20.0 %
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.190, 15188 neurons 0.481[0m
+[92maveraged covered neurons 0.442[0m
+[92minput already causes different outputs: 3, 8, 3[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.190, 15188 neurons 0.484[0m
+[92maveraged covered neurons 0.444[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.190, 15188 neurons 0.486[0m
+[92maveraged covered neurons 0.446[0m
+[92minput already causes different outputs: 1, 1, 7[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.190, 15188 neurons 0.487[0m
+[92maveraged covered neurons 0.447[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.190, 15188 neurons 0.487[0m
+[92maveraged covered neurons 0.447[0m
+[92minput already causes different outputs: 0, 6, 0[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.190, 15188 neurons 0.488[0m
+[92maveraged covered neurons 0.448[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.190, 15188 neurons 0.489[0m
+[92maveraged covered neurons 0.449[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.190, 15188 neurons 0.490[0m
+[92maveraged covered neurons 0.450[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.190, 15188 neurons 0.492[0m
+[92maveraged covered neurons 0.451[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.190, 15188 neurons 0.493[0m
+[92maveraged covered neurons 0.452[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.190, 15188 neurons 0.496[0m
+[92maveraged covered neurons 0.455[0m
+Done 30.0 %
+[92minput already causes different outputs: 6, 6, 8[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.191, 15188 neurons 0.497[0m
+[92maveraged covered neurons 0.456[0m
+[92minput already causes different outputs: 3, 3, 5[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.191, 15188 neurons 0.499[0m
+[92maveraged covered neurons 0.457[0m
+[92minput already causes different outputs: 5, 6, 6[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.191, 15188 neurons 0.502[0m
+[92maveraged covered neurons 0.460[0m
+[92minput already causes different outputs: 9, 3, 5[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.191, 15188 neurons 0.505[0m
+[92maveraged covered neurons 0.463[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.191, 15188 neurons 0.507[0m
+[92maveraged covered neurons 0.464[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.191, 15188 neurons 0.509[0m
+[92maveraged covered neurons 0.466[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.191, 15188 neurons 0.518[0m
+[92maveraged covered neurons 0.474[0m
+[92mcovered neurons percentage 990 neurons 0.164, 1278 neurons 0.191, 15188 neurons 0.519[0m
+[92maveraged covered neurons 0.475[0m
+[92minput already causes different outputs: 9, 2, 8[0m
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.520[0m
+[92maveraged covered neurons 0.476[0m
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.521[0m
+[92maveraged covered neurons 0.476[0m
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.521[0m
+[92maveraged covered neurons 0.477[0m
+Done 40.0 %
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.522[0m
+[92maveraged covered neurons 0.477[0m
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.522[0m
+[92maveraged covered neurons 0.478[0m
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.524[0m
+[92maveraged covered neurons 0.479[0m
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.524[0m
+[92maveraged covered neurons 0.480[0m
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.525[0m
+[92maveraged covered neurons 0.480[0m
+[92minput already causes different outputs: 3, 3, 9[0m
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.527[0m
+[92maveraged covered neurons 0.482[0m
+[92minput already causes different outputs: 1, 1, 3[0m
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.527[0m
+[92maveraged covered neurons 0.482[0m
+[92minput already causes different outputs: 1, 1, 7[0m
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.528[0m
+[92maveraged covered neurons 0.483[0m
+Done 50.0 %
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.531[0m
+[92maveraged covered neurons 0.485[0m
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.531[0m
+[92maveraged covered neurons 0.485[0m
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.532[0m
+[92maveraged covered neurons 0.486[0m
+[92minput already causes different outputs: 6, 0, 6[0m
+[92mcovered neurons percentage 990 neurons 0.165, 1278 neurons 0.192, 15188 neurons 0.533[0m
+[92maveraged covered neurons 0.487[0m
+[92minput already causes different outputs: 6, 6, 8[0m
+[92mcovered neurons percentage 990 neurons 0.166, 1278 neurons 0.192, 15188 neurons 0.533[0m
+[92maveraged covered neurons 0.488[0m
+[92mcovered neurons percentage 990 neurons 0.166, 1278 neurons 0.192, 15188 neurons 0.534[0m
+[92maveraged covered neurons 0.488[0m
+[92mcovered neurons percentage 990 neurons 0.167, 1278 neurons 0.192, 15188 neurons 0.536[0m
+[92maveraged covered neurons 0.490[0m
+[92minput already causes different outputs: 4, 4, 1[0m
+[92mcovered neurons percentage 990 neurons 0.167, 1278 neurons 0.192, 15188 neurons 0.537[0m
+[92maveraged covered neurons 0.491[0m
+[92minput already causes different outputs: 3, 3, 5[0m
+[92mcovered neurons percentage 990 neurons 0.167, 1278 neurons 0.192, 15188 neurons 0.538[0m
+[92maveraged covered neurons 0.492[0m
+[92minput already causes different outputs: 5, 5, 8[0m
+[92mcovered neurons percentage 990 neurons 0.168, 1278 neurons 0.192, 15188 neurons 0.539[0m
+[92maveraged covered neurons 0.493[0m
+Done 60.0 %
+[92mcovered neurons percentage 990 neurons 0.168, 1278 neurons 0.192, 15188 neurons 0.540[0m
+[92maveraged covered neurons 0.493[0m
+[92minput already causes different outputs: 1, 1, 7[0m
+[92mcovered neurons percentage 990 neurons 0.168, 1278 neurons 0.192, 15188 neurons 0.541[0m
+[92maveraged covered neurons 0.495[0m
+[92minput already causes different outputs: 0, 0, 6[0m
+[92mcovered neurons percentage 990 neurons 0.169, 1278 neurons 0.192, 15188 neurons 0.542[0m
+[92maveraged covered neurons 0.495[0m
+[92mcovered neurons percentage 990 neurons 0.169, 1278 neurons 0.192, 15188 neurons 0.542[0m
+[92maveraged covered neurons 0.495[0m
+[92mcovered neurons percentage 990 neurons 0.169, 1278 neurons 0.192, 15188 neurons 0.542[0m
+[92maveraged covered neurons 0.495[0m
+[92mcovered neurons percentage 990 neurons 0.169, 1278 neurons 0.192, 15188 neurons 0.542[0m
+[92maveraged covered neurons 0.495[0m
+[92mcovered neurons percentage 990 neurons 0.169, 1278 neurons 0.192, 15188 neurons 0.542[0m
+[92maveraged covered neurons 0.496[0m
+[92mcovered neurons percentage 990 neurons 0.169, 1278 neurons 0.192, 15188 neurons 0.542[0m
+[92maveraged covered neurons 0.496[0m
+[92minput already causes different outputs: 6, 6, 5[0m
+[92mcovered neurons percentage 990 neurons 0.169, 1278 neurons 0.192, 15188 neurons 0.543[0m
+[92maveraged covered neurons 0.496[0m
+[92minput already causes different outputs: 1, 1, 2[0m
+[92mcovered neurons percentage 990 neurons 0.169, 1278 neurons 0.192, 15188 neurons 0.544[0m
+[92maveraged covered neurons 0.497[0m
+Done 70.0 %
+[92mcovered neurons percentage 990 neurons 0.169, 1278 neurons 0.192, 15188 neurons 0.544[0m
+[92maveraged covered neurons 0.497[0m
+[92mcovered neurons percentage 990 neurons 0.172, 1278 neurons 0.194, 15188 neurons 0.544[0m
+[92maveraged covered neurons 0.498[0m
+[92mcovered neurons percentage 990 neurons 0.172, 1278 neurons 0.194, 15188 neurons 0.545[0m
+[92maveraged covered neurons 0.498[0m
+[92minput already causes different outputs: 1, 4, 4[0m
+[92mcovered neurons percentage 990 neurons 0.172, 1278 neurons 0.194, 15188 neurons 0.546[0m
+[92maveraged covered neurons 0.499[0m
+[92mcovered neurons percentage 990 neurons 0.172, 1278 neurons 0.194, 15188 neurons 0.547[0m
+[92maveraged covered neurons 0.500[0m
+Done 80.0 %
+[92mcovered neurons percentage 990 neurons 0.172, 1278 neurons 0.194, 15188 neurons 0.547[0m
+[92maveraged covered neurons 0.500[0m
+[92mcovered neurons percentage 990 neurons 0.172, 1278 neurons 0.194, 15188 neurons 0.548[0m
+[92maveraged covered neurons 0.501[0m
+[92mcovered neurons percentage 990 neurons 0.172, 1278 neurons 0.194, 15188 neurons 0.549[0m
+[92maveraged covered neurons 0.501[0m
+[92mcovered neurons percentage 990 neurons 0.173, 1278 neurons 0.194, 15188 neurons 0.549[0m
+[92maveraged covered neurons 0.502[0m
+Done 90.0 %
+[92mcovered neurons percentage 990 neurons 0.173, 1278 neurons 0.194, 15188 neurons 0.550[0m
+[92maveraged covered neurons 0.502[0m
+[92minput already causes different outputs: 1, 7, 2[0m
+[92mcovered neurons percentage 990 neurons 0.173, 1278 neurons 0.194, 15188 neurons 0.550[0m
+[92maveraged covered neurons 0.503[0m
+[92minput already causes different outputs: 2, 7, 2[0m
+[92mcovered neurons percentage 990 neurons 0.173, 1278 neurons 0.194, 15188 neurons 0.553[0m
+[92maveraged covered neurons 0.505[0m
+[92mcovered neurons percentage 990 neurons 0.173, 1278 neurons 0.194, 15188 neurons 0.553[0m
+[92maveraged covered neurons 0.505[0m
+[92mcovered neurons percentage 990 neurons 0.173, 1278 neurons 0.194, 15188 neurons 0.553[0m
+[92maveraged covered neurons 0.505[0m
+[92mcovered neurons percentage 990 neurons 0.173, 1278 neurons 0.194, 15188 neurons 0.553[0m
+[92maveraged covered neurons 0.505[0m
+[92mcovered neurons percentage 990 neurons 0.174, 1278 neurons 0.194, 15188 neurons 0.554[0m
+[92maveraged covered neurons 0.506[0m
+[92mcovered neurons percentage 990 neurons 0.174, 1278 neurons 0.194, 15188 neurons 0.554[0m
+[92maveraged covered neurons 0.506[0m
+
+**** Result ****
+No of test inputs generated:  58
+Cumulative coverage for tests:  0.554
+Avg. test generation time: 572 s
+Total time: 33194.05 s
+
+
+
+Done 0.0 %
+[92minput already causes different outputs: 5, 5, 3[0m
+[92mcovered neurons percentage 990 neurons 0.006, 1278 neurons 0.004, 15188 neurons 0.112[0m
+[92maveraged covered neurons 0.098[0m
+[92mcovered neurons percentage 990 neurons 0.010, 1278 neurons 0.006, 15188 neurons 0.205[0m
+[92maveraged covered neurons 0.180[0m
+[92minput already causes different outputs: 3, 9, 3[0m
+[92mcovered neurons percentage 990 neurons 0.013, 1278 neurons 0.007, 15188 neurons 0.246[0m
+[92maveraged covered neurons 0.215[0m
+[92mcovered neurons percentage 990 neurons 0.015, 1278 neurons 0.009, 15188 neurons 0.288[0m
+[92maveraged covered neurons 0.252[0m
+[92mcovered neurons percentage 990 neurons 0.018, 1278 neurons 0.011, 15188 neurons 0.337[0m
+[92maveraged covered neurons 0.295[0m
+[92mcovered neurons percentage 990 neurons 0.018, 1278 neurons 0.011, 15188 neurons 0.357[0m
+[92maveraged covered neurons 0.312[0m
+[92minput already causes different outputs: 1, 7, 7[0m
+[92mcovered neurons percentage 990 neurons 0.020, 1278 neurons 0.011, 15188 neurons 0.367[0m
+[92maveraged covered neurons 0.321[0m
+[92mcovered neurons percentage 990 neurons 0.020, 1278 neurons 0.011, 15188 neurons 0.378[0m
+[92maveraged covered neurons 0.330[0m
+[92mcovered neurons percentage 990 neurons 0.020, 1278 neurons 0.011, 15188 neurons 0.383[0m
+[92maveraged covered neurons 0.335[0m
+[92mcovered neurons percentage 990 neurons 0.023, 1278 neurons 0.013, 15188 neurons 0.416[0m
+[92maveraged covered neurons 0.364[0m
+[92mcovered neurons percentage 990 neurons 0.025, 1278 neurons 0.013, 15188 neurons 0.420[0m
+[92maveraged covered neurons 0.368[0m
+[92mcovered neurons percentage 990 neurons 0.025, 1278 neurons 0.014, 15188 neurons 0.427[0m
+[92maveraged covered neurons 0.374[0m
+[92minput already causes different outputs: 6, 6, 0[0m
+[92mcovered neurons percentage 990 neurons 0.025, 1278 neurons 0.015, 15188 neurons 0.436[0m
+[92maveraged covered neurons 0.382[0m
+[92minput already causes different outputs: 6, 0, 0[0m
+[92mcovered neurons percentage 990 neurons 0.025, 1278 neurons 0.016, 15188 neurons 0.438[0m
+[92maveraged covered neurons 0.384[0m
+[92mcovered neurons percentage 990 neurons 0.025, 1278 neurons 0.016, 15188 neurons 0.449[0m
+[92maveraged covered neurons 0.394[0m
+[92mcovered neurons percentage 990 neurons 0.027, 1278 neurons 0.016, 15188 neurons 0.455[0m
+[92maveraged covered neurons 0.399[0m
+Done 10.0 %
+[92minput already causes different outputs: 3, 3, 8[0m
+[92mcovered neurons percentage 990 neurons 0.028, 1278 neurons 0.016, 15188 neurons 0.463[0m
+[92maveraged covered neurons 0.406[0m
+[92minput already causes different outputs: 6, 5, 5[0m
+[92mcovered neurons percentage 990 neurons 0.028, 1278 neurons 0.016, 15188 neurons 0.468[0m
+[92maveraged covered neurons 0.410[0m
+[92minput already causes different outputs: 2, 2, 5[0m
+[92mcovered neurons percentage 990 neurons 0.029, 1278 neurons 0.017, 15188 neurons 0.471[0m
+[92maveraged covered neurons 0.413[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.017, 15188 neurons 0.474[0m
+[92maveraged covered neurons 0.415[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.017, 15188 neurons 0.477[0m
+[92maveraged covered neurons 0.418[0m
+[92minput already causes different outputs: 2, 1, 1[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.017, 15188 neurons 0.479[0m
+[92maveraged covered neurons 0.420[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.017, 15188 neurons 0.481[0m
+[92maveraged covered neurons 0.421[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.017, 15188 neurons 0.484[0m
+[92maveraged covered neurons 0.424[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.018, 15188 neurons 0.488[0m
+[92maveraged covered neurons 0.427[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.018, 15188 neurons 0.490[0m
+[92maveraged covered neurons 0.430[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.018, 15188 neurons 0.491[0m
+[92maveraged covered neurons 0.430[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.018, 15188 neurons 0.493[0m
+[92maveraged covered neurons 0.432[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.019, 15188 neurons 0.494[0m
+[92maveraged covered neurons 0.433[0m
+Done 20.0 %
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.019, 15188 neurons 0.496[0m
+[92maveraged covered neurons 0.434[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.019, 15188 neurons 0.497[0m
+[92maveraged covered neurons 0.435[0m
+[92minput already causes different outputs: 3, 8, 3[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.020, 15188 neurons 0.498[0m
+[92maveraged covered neurons 0.437[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.020, 15188 neurons 0.502[0m
+[92maveraged covered neurons 0.440[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.020, 15188 neurons 0.503[0m
+[92maveraged covered neurons 0.441[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.020, 15188 neurons 0.504[0m
+[92maveraged covered neurons 0.441[0m
+[92minput already causes different outputs: 1, 1, 7[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.020, 15188 neurons 0.505[0m
+[92maveraged covered neurons 0.442[0m
+[92mcovered neurons percentage 990 neurons 0.032, 1278 neurons 0.021, 15188 neurons 0.505[0m
+[92maveraged covered neurons 0.443[0m
+[92mcovered neurons percentage 990 neurons 0.032, 1278 neurons 0.021, 15188 neurons 0.506[0m
+[92maveraged covered neurons 0.443[0m
+[92minput already causes different outputs: 0, 6, 0[0m
+[92mcovered neurons percentage 990 neurons 0.033, 1278 neurons 0.021, 15188 neurons 0.507[0m
+[92maveraged covered neurons 0.445[0m
+[92mcovered neurons percentage 990 neurons 0.034, 1278 neurons 0.021, 15188 neurons 0.509[0m
+[92maveraged covered neurons 0.447[0m
+[92mcovered neurons percentage 990 neurons 0.034, 1278 neurons 0.021, 15188 neurons 0.510[0m
+[92maveraged covered neurons 0.447[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.022, 15188 neurons 0.510[0m
+[92maveraged covered neurons 0.447[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.022, 15188 neurons 0.510[0m
+[92maveraged covered neurons 0.448[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.022, 15188 neurons 0.511[0m
+[92maveraged covered neurons 0.448[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.022, 15188 neurons 0.512[0m
+[92maveraged covered neurons 0.449[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.022, 15188 neurons 0.513[0m
+[92maveraged covered neurons 0.450[0m
+Done 30.0 %
+[92minput already causes different outputs: 6, 6, 8[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.024, 15188 neurons 0.515[0m
+[92maveraged covered neurons 0.452[0m
+[92minput already causes different outputs: 3, 3, 5[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.024, 15188 neurons 0.516[0m
+[92maveraged covered neurons 0.453[0m
+[92minput already causes different outputs: 5, 6, 6[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.024, 15188 neurons 0.517[0m
+[92maveraged covered neurons 0.454[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.024, 15188 neurons 0.518[0m
+[92maveraged covered neurons 0.454[0m
+[92minput already causes different outputs: 9, 3, 5[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.025, 15188 neurons 0.521[0m
+[92maveraged covered neurons 0.457[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.025, 15188 neurons 0.521[0m
+[92maveraged covered neurons 0.457[0m
+[92mcovered neurons percentage 990 neurons 0.036, 1278 neurons 0.025, 15188 neurons 0.522[0m
+[92maveraged covered neurons 0.458[0m
+[92mcovered neurons percentage 990 neurons 0.036, 1278 neurons 0.026, 15188 neurons 0.523[0m
+[92maveraged covered neurons 0.459[0m
+[92mcovered neurons percentage 990 neurons 0.036, 1278 neurons 0.026, 15188 neurons 0.523[0m
+[92maveraged covered neurons 0.459[0m
+[92mcovered neurons percentage 990 neurons 0.037, 1278 neurons 0.026, 15188 neurons 0.524[0m
+[92maveraged covered neurons 0.460[0m
+[92mcovered neurons percentage 990 neurons 0.037, 1278 neurons 0.026, 15188 neurons 0.526[0m
+[92maveraged covered neurons 0.462[0m
+[92mcovered neurons percentage 990 neurons 0.038, 1278 neurons 0.026, 15188 neurons 0.527[0m
+[92maveraged covered neurons 0.463[0m
+[92minput already causes different outputs: 9, 2, 8[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.529[0m
+[92maveraged covered neurons 0.465[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.529[0m
+[92maveraged covered neurons 0.465[0m
+Done 40.0 %
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.531[0m
+[92maveraged covered neurons 0.466[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.531[0m
+[92maveraged covered neurons 0.466[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.532[0m
+[92maveraged covered neurons 0.467[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.535[0m
+[92maveraged covered neurons 0.470[0m
+[92minput already causes different outputs: 3, 3, 9[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.537[0m
+[92maveraged covered neurons 0.471[0m
+[92minput already causes different outputs: 1, 1, 3[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.537[0m
+[92maveraged covered neurons 0.472[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.537[0m
+[92maveraged covered neurons 0.472[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.538[0m
+[92maveraged covered neurons 0.472[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.538[0m
+[92maveraged covered neurons 0.472[0m
+[92minput already causes different outputs: 1, 1, 7[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.538[0m
+[92maveraged covered neurons 0.473[0m
+Done 50.0 %
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.539[0m
+[92maveraged covered neurons 0.474[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.540[0m
+[92maveraged covered neurons 0.474[0m
+[92minput already causes different outputs: 6, 0, 6[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.540[0m
+[92maveraged covered neurons 0.474[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.540[0m
+[92maveraged covered neurons 0.474[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.541[0m
+[92maveraged covered neurons 0.475[0m
+[92mcovered neurons percentage 990 neurons 0.040, 1278 neurons 0.027, 15188 neurons 0.541[0m
+[92maveraged covered neurons 0.475[0m
+[92minput already causes different outputs: 6, 6, 8[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.542[0m
+[92maveraged covered neurons 0.476[0m
+[92mcovered neurons percentage 990 neurons 0.042, 1278 neurons 0.027, 15188 neurons 0.543[0m
+[92maveraged covered neurons 0.477[0m
+[92mcovered neurons percentage 990 neurons 0.042, 1278 neurons 0.027, 15188 neurons 0.545[0m
+[92maveraged covered neurons 0.479[0m
+[92mcovered neurons percentage 990 neurons 0.042, 1278 neurons 0.027, 15188 neurons 0.546[0m
+[92maveraged covered neurons 0.479[0m
+[92mcovered neurons percentage 990 neurons 0.042, 1278 neurons 0.027, 15188 neurons 0.546[0m
+[92maveraged covered neurons 0.480[0m
+[92mcovered neurons percentage 990 neurons 0.042, 1278 neurons 0.027, 15188 neurons 0.548[0m
+[92maveraged covered neurons 0.481[0m
+[92minput already causes different outputs: 4, 4, 1[0m
+[92mcovered neurons percentage 990 neurons 0.042, 1278 neurons 0.027, 15188 neurons 0.549[0m
+[92maveraged covered neurons 0.482[0m
+[92minput already causes different outputs: 3, 3, 5[0m
+[92mcovered neurons percentage 990 neurons 0.042, 1278 neurons 0.027, 15188 neurons 0.550[0m
+[92maveraged covered neurons 0.483[0m
+[92minput already causes different outputs: 5, 5, 8[0m
+[92mcovered neurons percentage 990 neurons 0.043, 1278 neurons 0.029, 15188 neurons 0.551[0m
+[92maveraged covered neurons 0.484[0m
+Done 60.0 %
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.551[0m
+[92maveraged covered neurons 0.484[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.551[0m
+[92maveraged covered neurons 0.484[0m
+[92minput already causes different outputs: 1, 1, 7[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.552[0m
+[92maveraged covered neurons 0.485[0m
+[92minput already causes different outputs: 0, 0, 6[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.552[0m
+[92maveraged covered neurons 0.485[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.553[0m
+[92maveraged covered neurons 0.486[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.553[0m
+[92maveraged covered neurons 0.486[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.555[0m
+[92maveraged covered neurons 0.487[0m
+[92minput already causes different outputs: 6, 6, 5[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.555[0m
+[92maveraged covered neurons 0.488[0m
+[92minput already causes different outputs: 1, 1, 2[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.556[0m
+[92maveraged covered neurons 0.488[0m
+Done 70.0 %
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.557[0m
+[92maveraged covered neurons 0.489[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.557[0m
+[92maveraged covered neurons 0.490[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.558[0m
+[92maveraged covered neurons 0.490[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.558[0m
+[92maveraged covered neurons 0.490[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.558[0m
+[92maveraged covered neurons 0.490[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.558[0m
+[92maveraged covered neurons 0.490[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.558[0m
+[92maveraged covered neurons 0.490[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.559[0m
+[92maveraged covered neurons 0.491[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.560[0m
+[92maveraged covered neurons 0.492[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.560[0m
+[92maveraged covered neurons 0.492[0m
+[92minput already causes different outputs: 1, 4, 4[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.561[0m
+[92maveraged covered neurons 0.493[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.562[0m
+[92maveraged covered neurons 0.493[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.562[0m
+[92maveraged covered neurons 0.494[0m
+Done 80.0 %
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.562[0m
+[92maveraged covered neurons 0.494[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.562[0m
+[92maveraged covered neurons 0.494[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.564[0m
+[92maveraged covered neurons 0.496[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.565[0m
+[92maveraged covered neurons 0.496[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.565[0m
+[92maveraged covered neurons 0.496[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.566[0m
+[92maveraged covered neurons 0.497[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.566[0m
+[92maveraged covered neurons 0.497[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.566[0m
+[92maveraged covered neurons 0.497[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.567[0m
+[92maveraged covered neurons 0.498[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.567[0m
+[92maveraged covered neurons 0.498[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.567[0m
+[92maveraged covered neurons 0.498[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.568[0m
+[92maveraged covered neurons 0.499[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.568[0m
+[92maveraged covered neurons 0.499[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.568[0m
+[92maveraged covered neurons 0.499[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.569[0m
+[92maveraged covered neurons 0.499[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.569[0m
+[92maveraged covered neurons 0.499[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.569[0m
+[92maveraged covered neurons 0.499[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.569[0m
+[92maveraged covered neurons 0.500[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.030, 15188 neurons 0.569[0m
+[92maveraged covered neurons 0.500[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.030, 15188 neurons 0.569[0m
+[92maveraged covered neurons 0.500[0m
+Done 90.0 %
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.030, 15188 neurons 0.570[0m
+[92maveraged covered neurons 0.500[0m
+[92minput already causes different outputs: 1, 7, 2[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.030, 15188 neurons 0.570[0m
+[92maveraged covered neurons 0.500[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.030, 15188 neurons 0.570[0m
+[92maveraged covered neurons 0.501[0m
+[92minput already causes different outputs: 2, 7, 2[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.030, 15188 neurons 0.571[0m
+[92maveraged covered neurons 0.501[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.030, 15188 neurons 0.571[0m
+[92maveraged covered neurons 0.501[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.030, 15188 neurons 0.571[0m
+[92maveraged covered neurons 0.501[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.030, 15188 neurons 0.571[0m
+[92maveraged covered neurons 0.502[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.030, 15188 neurons 0.572[0m
+[92maveraged covered neurons 0.502[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.030, 15188 neurons 0.572[0m
+[92maveraged covered neurons 0.503[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.030, 15188 neurons 0.572[0m
+[92maveraged covered neurons 0.503[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.030, 15188 neurons 0.572[0m
+[92maveraged covered neurons 0.503[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.030, 15188 neurons 0.573[0m
+[92maveraged covered neurons 0.503[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.030, 15188 neurons 0.573[0m
+[92maveraged covered neurons 0.503[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.030, 15188 neurons 0.573[0m
+[92maveraged covered neurons 0.504[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.030, 15188 neurons 0.573[0m
+[92maveraged covered neurons 0.504[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.030, 15188 neurons 0.573[0m
+[92maveraged covered neurons 0.504[0m
+
+**** Result ****
+No of test inputs generated:  111
+Cumulative coverage for tests:  0.573
+Avg. test generation time: 294 s
+Total time: 32607.85 s
+
+
+
+Done 0.0 %
+[92minput already causes different outputs: 5, 5, 3[0m
+[92mcovered neurons percentage 990 neurons 0.006, 1278 neurons 0.004, 15188 neurons 0.112[0m
+[92maveraged covered neurons 0.098[0m
+[92mcovered neurons percentage 990 neurons 0.011, 1278 neurons 0.009, 15188 neurons 0.203[0m
+[92maveraged covered neurons 0.178[0m
+[92mcovered neurons percentage 990 neurons 0.014, 1278 neurons 0.009, 15188 neurons 0.277[0m
+[92maveraged covered neurons 0.242[0m
+[92mcovered neurons percentage 990 neurons 0.015, 1278 neurons 0.013, 15188 neurons 0.332[0m
+[92maveraged covered neurons 0.291[0m
+[92mcovered neurons percentage 990 neurons 0.022, 1278 neurons 0.015, 15188 neurons 0.352[0m
+[92maveraged covered neurons 0.308[0m
+[92mcovered neurons percentage 990 neurons 0.023, 1278 neurons 0.016, 15188 neurons 0.365[0m
+[92maveraged covered neurons 0.320[0m
+[92minput already causes different outputs: 3, 9, 3[0m
+[92mcovered neurons percentage 990 neurons 0.024, 1278 neurons 0.016, 15188 neurons 0.383[0m
+[92maveraged covered neurons 0.336[0m
+[92mcovered neurons percentage 990 neurons 0.026, 1278 neurons 0.016, 15188 neurons 0.396[0m
+[92maveraged covered neurons 0.347[0m
+[92mcovered neurons percentage 990 neurons 0.026, 1278 neurons 0.016, 15188 neurons 0.405[0m
+[92maveraged covered neurons 0.355[0m
+[92mcovered neurons percentage 990 neurons 0.026, 1278 neurons 0.016, 15188 neurons 0.413[0m
+[92maveraged covered neurons 0.362[0m
+[92mcovered neurons percentage 990 neurons 0.026, 1278 neurons 0.016, 15188 neurons 0.417[0m
+[92maveraged covered neurons 0.365[0m
+[92mcovered neurons percentage 990 neurons 0.026, 1278 neurons 0.016, 15188 neurons 0.423[0m
+[92maveraged covered neurons 0.371[0m
+[92mcovered neurons percentage 990 neurons 0.029, 1278 neurons 0.017, 15188 neurons 0.429[0m
+[92maveraged covered neurons 0.376[0m
+[92minput already causes different outputs: 1, 7, 7[0m
+[92mcovered neurons percentage 990 neurons 0.029, 1278 neurons 0.017, 15188 neurons 0.434[0m
+[92maveraged covered neurons 0.380[0m
+[92mcovered neurons percentage 990 neurons 0.029, 1278 neurons 0.017, 15188 neurons 0.439[0m
+[92maveraged covered neurons 0.385[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.017, 15188 neurons 0.447[0m
+[92maveraged covered neurons 0.392[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.017, 15188 neurons 0.448[0m
+[92maveraged covered neurons 0.393[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.017, 15188 neurons 0.456[0m
+[92maveraged covered neurons 0.400[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.017, 15188 neurons 0.460[0m
+[92maveraged covered neurons 0.403[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.017, 15188 neurons 0.467[0m
+[92maveraged covered neurons 0.409[0m
+[92mcovered neurons percentage 990 neurons 0.030, 1278 neurons 0.017, 15188 neurons 0.473[0m
+[92maveraged covered neurons 0.415[0m
+[92mcovered neurons percentage 990 neurons 0.031, 1278 neurons 0.017, 15188 neurons 0.475[0m
+[92maveraged covered neurons 0.416[0m
+[92mcovered neurons percentage 990 neurons 0.031, 1278 neurons 0.017, 15188 neurons 0.477[0m
+[92maveraged covered neurons 0.418[0m
+[92mcovered neurons percentage 990 neurons 0.031, 1278 neurons 0.018, 15188 neurons 0.477[0m
+[92maveraged covered neurons 0.418[0m
+[92mcovered neurons percentage 990 neurons 0.032, 1278 neurons 0.018, 15188 neurons 0.479[0m
+[92maveraged covered neurons 0.420[0m
+[92mcovered neurons percentage 990 neurons 0.032, 1278 neurons 0.020, 15188 neurons 0.481[0m
+[92maveraged covered neurons 0.422[0m
+[92mcovered neurons percentage 990 neurons 0.032, 1278 neurons 0.020, 15188 neurons 0.483[0m
+[92maveraged covered neurons 0.424[0m
+[92mcovered neurons percentage 990 neurons 0.032, 1278 neurons 0.020, 15188 neurons 0.485[0m
+[92maveraged covered neurons 0.425[0m
+[92mcovered neurons percentage 990 neurons 0.032, 1278 neurons 0.021, 15188 neurons 0.487[0m
+[92maveraged covered neurons 0.427[0m
+[92mcovered neurons percentage 990 neurons 0.032, 1278 neurons 0.021, 15188 neurons 0.488[0m
+[92maveraged covered neurons 0.428[0m
+[92mcovered neurons percentage 990 neurons 0.032, 1278 neurons 0.022, 15188 neurons 0.491[0m
+[92maveraged covered neurons 0.431[0m
+[92mcovered neurons percentage 990 neurons 0.033, 1278 neurons 0.022, 15188 neurons 0.494[0m
+[92maveraged covered neurons 0.433[0m
+[92mcovered neurons percentage 990 neurons 0.033, 1278 neurons 0.022, 15188 neurons 0.496[0m
+[92maveraged covered neurons 0.435[0m
+[92minput already causes different outputs: 6, 6, 0[0m
+[92mcovered neurons percentage 990 neurons 0.033, 1278 neurons 0.023, 15188 neurons 0.498[0m
+[92maveraged covered neurons 0.437[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.498[0m
+[92maveraged covered neurons 0.437[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.502[0m
+[92maveraged covered neurons 0.440[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.505[0m
+[92maveraged covered neurons 0.443[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.506[0m
+[92maveraged covered neurons 0.444[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.508[0m
+[92maveraged covered neurons 0.445[0m
+[92minput already causes different outputs: 6, 0, 0[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.510[0m
+[92maveraged covered neurons 0.447[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.510[0m
+[92maveraged covered neurons 0.448[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.512[0m
+[92maveraged covered neurons 0.449[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.512[0m
+[92maveraged covered neurons 0.449[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.513[0m
+[92maveraged covered neurons 0.450[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.515[0m
+[92maveraged covered neurons 0.452[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.516[0m
+[92maveraged covered neurons 0.453[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.516[0m
+[92maveraged covered neurons 0.453[0m
+Done 10.0 %
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.519[0m
+[92maveraged covered neurons 0.455[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.526[0m
+[92maveraged covered neurons 0.462[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.526[0m
+[92maveraged covered neurons 0.462[0m
+[92minput already causes different outputs: 3, 3, 8[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.528[0m
+[92maveraged covered neurons 0.463[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.528[0m
+[92maveraged covered neurons 0.463[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.529[0m
+[92maveraged covered neurons 0.464[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.530[0m
+[92maveraged covered neurons 0.465[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.531[0m
+[92maveraged covered neurons 0.465[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.531[0m
+[92maveraged covered neurons 0.465[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.531[0m
+[92maveraged covered neurons 0.465[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.532[0m
+[92maveraged covered neurons 0.467[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.533[0m
+[92maveraged covered neurons 0.467[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.533[0m
+[92maveraged covered neurons 0.467[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.533[0m
+[92maveraged covered neurons 0.467[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.533[0m
+[92maveraged covered neurons 0.468[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.534[0m
+[92maveraged covered neurons 0.468[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.534[0m
+[92maveraged covered neurons 0.468[0m
+[92minput already causes different outputs: 6, 5, 5[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.535[0m
+[92maveraged covered neurons 0.469[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.537[0m
+[92maveraged covered neurons 0.471[0m
+[92minput already causes different outputs: 2, 2, 5[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.537[0m
+[92maveraged covered neurons 0.471[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.538[0m
+[92maveraged covered neurons 0.472[0m
+[92mcovered neurons percentage 990 neurons 0.035, 1278 neurons 0.023, 15188 neurons 0.538[0m
+[92maveraged covered neurons 0.472[0m
+[92mcovered neurons percentage 990 neurons 0.036, 1278 neurons 0.023, 15188 neurons 0.539[0m
+[92maveraged covered neurons 0.472[0m
+[92mcovered neurons percentage 990 neurons 0.036, 1278 neurons 0.023, 15188 neurons 0.541[0m
+[92maveraged covered neurons 0.474[0m
+[92mcovered neurons percentage 990 neurons 0.036, 1278 neurons 0.023, 15188 neurons 0.541[0m
+[92maveraged covered neurons 0.475[0m
+[92mcovered neurons percentage 990 neurons 0.036, 1278 neurons 0.023, 15188 neurons 0.541[0m
+[92maveraged covered neurons 0.475[0m
+[92mcovered neurons percentage 990 neurons 0.036, 1278 neurons 0.023, 15188 neurons 0.544[0m
+[92maveraged covered neurons 0.477[0m
+[92mcovered neurons percentage 990 neurons 0.036, 1278 neurons 0.023, 15188 neurons 0.544[0m
+[92maveraged covered neurons 0.477[0m
+[92mcovered neurons percentage 990 neurons 0.036, 1278 neurons 0.023, 15188 neurons 0.544[0m
+[92maveraged covered neurons 0.477[0m
+[92mcovered neurons percentage 990 neurons 0.036, 1278 neurons 0.023, 15188 neurons 0.545[0m
+[92maveraged covered neurons 0.478[0m
+[92minput already causes different outputs: 2, 1, 1[0m
+[92mcovered neurons percentage 990 neurons 0.036, 1278 neurons 0.023, 15188 neurons 0.546[0m
+[92maveraged covered neurons 0.479[0m
+[92mcovered neurons percentage 990 neurons 0.039, 1278 neurons 0.023, 15188 neurons 0.546[0m
+[92maveraged covered neurons 0.479[0m
+[92mcovered neurons percentage 990 neurons 0.039, 1278 neurons 0.023, 15188 neurons 0.546[0m
+[92maveraged covered neurons 0.479[0m
+[92mcovered neurons percentage 990 neurons 0.039, 1278 neurons 0.023, 15188 neurons 0.547[0m
+[92maveraged covered neurons 0.480[0m
+[92mcovered neurons percentage 990 neurons 0.039, 1278 neurons 0.023, 15188 neurons 0.548[0m
+[92maveraged covered neurons 0.481[0m
+[92mcovered neurons percentage 990 neurons 0.039, 1278 neurons 0.024, 15188 neurons 0.548[0m
+[92maveraged covered neurons 0.481[0m
+[92mcovered neurons percentage 990 neurons 0.039, 1278 neurons 0.024, 15188 neurons 0.548[0m
+[92maveraged covered neurons 0.481[0m
+[92mcovered neurons percentage 990 neurons 0.039, 1278 neurons 0.024, 15188 neurons 0.549[0m
+[92maveraged covered neurons 0.482[0m
+[92mcovered neurons percentage 990 neurons 0.039, 1278 neurons 0.026, 15188 neurons 0.551[0m
+[92maveraged covered neurons 0.483[0m
+[92mcovered neurons percentage 990 neurons 0.039, 1278 neurons 0.027, 15188 neurons 0.551[0m
+[92maveraged covered neurons 0.484[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.551[0m
+[92maveraged covered neurons 0.484[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.551[0m
+[92maveraged covered neurons 0.484[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.551[0m
+[92maveraged covered neurons 0.484[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.552[0m
+[92maveraged covered neurons 0.484[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.552[0m
+[92maveraged covered neurons 0.484[0m
+Done 20.0 %
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.553[0m
+[92maveraged covered neurons 0.486[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.554[0m
+[92maveraged covered neurons 0.486[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.554[0m
+[92maveraged covered neurons 0.486[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.554[0m
+[92maveraged covered neurons 0.486[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.555[0m
+[92maveraged covered neurons 0.487[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.555[0m
+[92maveraged covered neurons 0.487[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.555[0m
+[92maveraged covered neurons 0.487[0m
+[92minput already causes different outputs: 3, 8, 3[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.556[0m
+[92maveraged covered neurons 0.488[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.556[0m
+[92maveraged covered neurons 0.488[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.556[0m
+[92maveraged covered neurons 0.488[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.556[0m
+[92maveraged covered neurons 0.489[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.557[0m
+[92maveraged covered neurons 0.489[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.557[0m
+[92maveraged covered neurons 0.489[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.557[0m
+[92maveraged covered neurons 0.489[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.557[0m
+[92maveraged covered neurons 0.489[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.558[0m
+[92maveraged covered neurons 0.490[0m
+[92minput already causes different outputs: 1, 1, 7[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.558[0m
+[92maveraged covered neurons 0.490[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.559[0m
+[92maveraged covered neurons 0.490[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.559[0m
+[92maveraged covered neurons 0.491[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.027, 15188 neurons 0.559[0m
+[92maveraged covered neurons 0.491[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.561[0m
+[92maveraged covered neurons 0.493[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.561[0m
+[92maveraged covered neurons 0.493[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.562[0m
+[92maveraged covered neurons 0.493[0m
+[92minput already causes different outputs: 0, 6, 0[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.562[0m
+[92maveraged covered neurons 0.494[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.562[0m
+[92maveraged covered neurons 0.494[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.563[0m
+[92maveraged covered neurons 0.494[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.563[0m
+[92maveraged covered neurons 0.494[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.563[0m
+[92maveraged covered neurons 0.494[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.563[0m
+[92maveraged covered neurons 0.494[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.563[0m
+[92maveraged covered neurons 0.494[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.563[0m
+[92maveraged covered neurons 0.494[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.564[0m
+[92maveraged covered neurons 0.495[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.564[0m
+[92maveraged covered neurons 0.495[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.565[0m
+[92maveraged covered neurons 0.496[0m
+[92mcovered neurons percentage 990 neurons 0.041, 1278 neurons 0.028, 15188 neurons 0.566[0m
+[92maveraged covered neurons 0.497[0m
+[92mcovered neurons percentage 990 neurons 0.042, 1278 neurons 0.028, 15188 neurons 0.566[0m
+[92maveraged covered neurons 0.497[0m
+[92mcovered neurons percentage 990 neurons 0.042, 1278 neurons 0.028, 15188 neurons 0.568[0m
+[92maveraged covered neurons 0.498[0m
+[92mcovered neurons percentage 990 neurons 0.042, 1278 neurons 0.028, 15188 neurons 0.568[0m
+[92maveraged covered neurons 0.499[0m
+[92mcovered neurons percentage 990 neurons 0.042, 1278 neurons 0.028, 15188 neurons 0.568[0m
+[92maveraged covered neurons 0.499[0m
+[92mcovered neurons percentage 990 neurons 0.042, 1278 neurons 0.028, 15188 neurons 0.568[0m
+[92maveraged covered neurons 0.499[0m
+[92mcovered neurons percentage 990 neurons 0.042, 1278 neurons 0.028, 15188 neurons 0.569[0m
+[92maveraged covered neurons 0.499[0m
+[92mcovered neurons percentage 990 neurons 0.043, 1278 neurons 0.028, 15188 neurons 0.569[0m
+[92maveraged covered neurons 0.499[0m
+[92mcovered neurons percentage 990 neurons 0.043, 1278 neurons 0.028, 15188 neurons 0.569[0m
+[92maveraged covered neurons 0.500[0m
+Done 30.0 %
+[92mcovered neurons percentage 990 neurons 0.043, 1278 neurons 0.028, 15188 neurons 0.569[0m
+[92maveraged covered neurons 0.500[0m
+[92minput already causes different outputs: 6, 6, 8[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.570[0m
+[92maveraged covered neurons 0.500[0m
+[92minput already causes different outputs: 3, 3, 5[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.570[0m
+[92maveraged covered neurons 0.501[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.570[0m
+[92maveraged covered neurons 0.501[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.570[0m
+[92maveraged covered neurons 0.501[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.570[0m
+[92maveraged covered neurons 0.501[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.571[0m
+[92maveraged covered neurons 0.501[0m
+[92minput already causes different outputs: 5, 6, 6[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.571[0m
+[92maveraged covered neurons 0.502[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.571[0m
+[92maveraged covered neurons 0.502[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.571[0m
+[92maveraged covered neurons 0.502[0m
+[92minput already causes different outputs: 9, 3, 5[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.573[0m
+[92maveraged covered neurons 0.504[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.574[0m
+[92maveraged covered neurons 0.504[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.574[0m
+[92maveraged covered neurons 0.504[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.575[0m
+[92maveraged covered neurons 0.505[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.575[0m
+[92maveraged covered neurons 0.505[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.575[0m
+[92maveraged covered neurons 0.505[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.576[0m
+[92maveraged covered neurons 0.505[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.576[0m
+[92maveraged covered neurons 0.506[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.576[0m
+[92maveraged covered neurons 0.506[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.576[0m
+[92maveraged covered neurons 0.506[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.576[0m
+[92maveraged covered neurons 0.506[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.576[0m
+[92maveraged covered neurons 0.506[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.576[0m
+[92maveraged covered neurons 0.506[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.576[0m
+[92maveraged covered neurons 0.506[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.577[0m
+[92maveraged covered neurons 0.507[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.577[0m
+[92maveraged covered neurons 0.507[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.577[0m
+[92maveraged covered neurons 0.507[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.579[0m
+[92maveraged covered neurons 0.508[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.579[0m
+[92maveraged covered neurons 0.508[0m
+[92mcovered neurons percentage 990 neurons 0.044, 1278 neurons 0.029, 15188 neurons 0.579[0m
+[92maveraged covered neurons 0.508[0m
+[92mcovered neurons percentage 990 neurons 0.045, 1278 neurons 0.029, 15188 neurons 0.579[0m
+[92maveraged covered neurons 0.509[0m
+[92mcovered neurons percentage 990 neurons 0.045, 1278 neurons 0.029, 15188 neurons 0.580[0m
+[92maveraged covered neurons 0.509[0m
+[92mcovered neurons percentage 990 neurons 0.045, 1278 neurons 0.029, 15188 neurons 0.580[0m
+[92maveraged covered neurons 0.509[0m
+[92mcovered neurons percentage 990 neurons 0.045, 1278 neurons 0.029, 15188 neurons 0.580[0m
+[92maveraged covered neurons 0.509[0m
+[92mcovered neurons percentage 990 neurons 0.046, 1278 neurons 0.029, 15188 neurons 0.581[0m
+[92maveraged covered neurons 0.510[0m
+[92mcovered neurons percentage 990 neurons 0.046, 1278 neurons 0.029, 15188 neurons 0.581[0m
+[92maveraged covered neurons 0.510[0m
+[92mcovered neurons percentage 990 neurons 0.046, 1278 neurons 0.029, 15188 neurons 0.581[0m
+[92maveraged covered neurons 0.510[0m
+[92mcovered neurons percentage 990 neurons 0.046, 1278 neurons 0.029, 15188 neurons 0.581[0m
+[92maveraged covered neurons 0.511[0m
+[92minput already causes different outputs: 9, 2, 8[0m
+[92mcovered neurons percentage 990 neurons 0.046, 1278 neurons 0.029, 15188 neurons 0.582[0m
+[92maveraged covered neurons 0.511[0m
+[92mcovered neurons percentage 990 neurons 0.046, 1278 neurons 0.029, 15188 neurons 0.582[0m
+[92maveraged covered neurons 0.511[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.583[0m
+[92maveraged covered neurons 0.512[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.583[0m
+[92maveraged covered neurons 0.512[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.583[0m
+[92maveraged covered neurons 0.512[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.583[0m
+[92maveraged covered neurons 0.512[0m
+Done 40.0 %
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.583[0m
+[92maveraged covered neurons 0.512[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.583[0m
+[92maveraged covered neurons 0.512[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.583[0m
+[92maveraged covered neurons 0.512[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.584[0m
+[92maveraged covered neurons 0.513[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.584[0m
+[92maveraged covered neurons 0.513[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.584[0m
+[92maveraged covered neurons 0.513[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.584[0m
+[92maveraged covered neurons 0.513[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.584[0m
+[92maveraged covered neurons 0.513[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.584[0m
+[92maveraged covered neurons 0.513[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.584[0m
+[92maveraged covered neurons 0.513[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.585[0m
+[92maveraged covered neurons 0.513[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.585[0m
+[92maveraged covered neurons 0.514[0m
+[92mcovered neurons percentage 990 neurons 0.047, 1278 neurons 0.029, 15188 neurons 0.585[0m
+[92maveraged covered neurons 0.514[0m
+[92mcovered neurons percentage 990 neurons 0.048, 1278 neurons 0.029, 15188 neurons 0.585[0m
+[92maveraged covered neurons 0.514[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.585[0m
+[92maveraged covered neurons 0.514[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.585[0m
+[92maveraged covered neurons 0.514[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.585[0m
+[92maveraged covered neurons 0.514[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.585[0m
+[92maveraged covered neurons 0.514[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.586[0m
+[92maveraged covered neurons 0.514[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.586[0m
+[92maveraged covered neurons 0.515[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.586[0m
+[92maveraged covered neurons 0.515[0m
+[92minput already causes different outputs: 3, 3, 9[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.586[0m
+[92maveraged covered neurons 0.515[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.587[0m
+[92maveraged covered neurons 0.515[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.587[0m
+[92maveraged covered neurons 0.515[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.587[0m
+[92maveraged covered neurons 0.516[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.587[0m
+[92maveraged covered neurons 0.516[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.588[0m
+[92maveraged covered neurons 0.516[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.588[0m
+[92maveraged covered neurons 0.516[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.588[0m
+[92maveraged covered neurons 0.517[0m
+[92minput already causes different outputs: 1, 1, 3[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.588[0m
+[92maveraged covered neurons 0.517[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.588[0m
+[92maveraged covered neurons 0.517[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.589[0m
+[92maveraged covered neurons 0.517[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.589[0m
+[92maveraged covered neurons 0.517[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.589[0m
+[92maveraged covered neurons 0.517[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.029, 15188 neurons 0.589[0m
+[92maveraged covered neurons 0.517[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.589[0m
+[92maveraged covered neurons 0.518[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.589[0m
+[92maveraged covered neurons 0.518[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.590[0m
+[92maveraged covered neurons 0.518[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.590[0m
+[92maveraged covered neurons 0.518[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.590[0m
+[92maveraged covered neurons 0.518[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.590[0m
+[92maveraged covered neurons 0.519[0m
+[92minput already causes different outputs: 1, 1, 7[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.591[0m
+[92maveraged covered neurons 0.519[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.591[0m
+[92maveraged covered neurons 0.519[0m
+Done 50.0 %
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.591[0m
+[92maveraged covered neurons 0.519[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.591[0m
+[92maveraged covered neurons 0.519[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.591[0m
+[92maveraged covered neurons 0.519[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.591[0m
+[92maveraged covered neurons 0.519[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.591[0m
+[92maveraged covered neurons 0.519[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.592[0m
+[92maveraged covered neurons 0.520[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.592[0m
+[92maveraged covered neurons 0.520[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.592[0m
+[92maveraged covered neurons 0.520[0m
+[92minput already causes different outputs: 6, 0, 6[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.592[0m
+[92maveraged covered neurons 0.520[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.593[0m
+[92maveraged covered neurons 0.521[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.593[0m
+[92maveraged covered neurons 0.521[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.593[0m
+[92maveraged covered neurons 0.521[0m
+[92mcovered neurons percentage 990 neurons 0.049, 1278 neurons 0.030, 15188 neurons 0.593[0m
+[92maveraged covered neurons 0.521[0m
+[92mcovered neurons percentage 990 neurons 0.051, 1278 neurons 0.030, 15188 neurons 0.593[0m
+[92maveraged covered neurons 0.521[0m
+[92minput already causes different outputs: 6, 6, 8[0m
+[92mcovered neurons percentage 990 neurons 0.051, 1278 neurons 0.030, 15188 neurons 0.594[0m
+[92maveraged covered neurons 0.522[0m
+[92mcovered neurons percentage 990 neurons 0.051, 1278 neurons 0.030, 15188 neurons 0.594[0m
+[92maveraged covered neurons 0.522[0m
+[92mcovered neurons percentage 990 neurons 0.051, 1278 neurons 0.030, 15188 neurons 0.594[0m
+[92maveraged covered neurons 0.522[0m
+[92mcovered neurons percentage 990 neurons 0.051, 1278 neurons 0.030, 15188 neurons 0.594[0m
+[92maveraged covered neurons 0.522[0m
+[92mcovered neurons percentage 990 neurons 0.051, 1278 neurons 0.030, 15188 neurons 0.594[0m
+[92maveraged covered neurons 0.522[0m
+[92mcovered neurons percentage 990 neurons 0.051, 1278 neurons 0.030, 15188 neurons 0.594[0m
+[92maveraged covered neurons 0.522[0m
+[92mcovered neurons percentage 990 neurons 0.051, 1278 neurons 0.030, 15188 neurons 0.595[0m
+[92maveraged covered neurons 0.522[0m
+[92mcovered neurons percentage 990 neurons 0.051, 1278 neurons 0.030, 15188 neurons 0.595[0m
+[92maveraged covered neurons 0.523[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.595[0m
+[92maveraged covered neurons 0.523[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.595[0m
+[92maveraged covered neurons 0.523[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.595[0m
+[92maveraged covered neurons 0.523[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.595[0m
+[92maveraged covered neurons 0.523[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.595[0m
+[92maveraged covered neurons 0.523[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.595[0m
+[92maveraged covered neurons 0.523[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.596[0m
+[92maveraged covered neurons 0.523[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.596[0m
+[92maveraged covered neurons 0.524[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.596[0m
+[92maveraged covered neurons 0.524[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.596[0m
+[92maveraged covered neurons 0.524[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.596[0m
+[92maveraged covered neurons 0.524[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.596[0m
+[92maveraged covered neurons 0.524[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.597[0m
+[92maveraged covered neurons 0.524[0m
+[92minput already causes different outputs: 4, 4, 1[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.597[0m
+[92maveraged covered neurons 0.525[0m
+[92minput already causes different outputs: 3, 3, 5[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.598[0m
+[92maveraged covered neurons 0.526[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.598[0m
+[92maveraged covered neurons 0.526[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.599[0m
+[92maveraged covered neurons 0.526[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.599[0m
+[92maveraged covered neurons 0.526[0m
+[92mcovered neurons percentage 990 neurons 0.052, 1278 neurons 0.030, 15188 neurons 0.599[0m
+[92maveraged covered neurons 0.527[0m
+[92minput already causes different outputs: 5, 5, 8[0m
+[92mcovered neurons percentage 990 neurons 0.053, 1278 neurons 0.030, 15188 neurons 0.600[0m
+[92maveraged covered neurons 0.527[0m
+[92mcovered neurons percentage 990 neurons 0.053, 1278 neurons 0.030, 15188 neurons 0.600[0m
+[92maveraged covered neurons 0.527[0m
+Done 60.0 %
+[92mcovered neurons percentage 990 neurons 0.053, 1278 neurons 0.030, 15188 neurons 0.600[0m
+[92maveraged covered neurons 0.527[0m
+[92mcovered neurons percentage 990 neurons 0.053, 1278 neurons 0.030, 15188 neurons 0.600[0m
+[92maveraged covered neurons 0.527[0m
+[92mcovered neurons percentage 990 neurons 0.053, 1278 neurons 0.030, 15188 neurons 0.600[0m
+[92maveraged covered neurons 0.527[0m
+[92mcovered neurons percentage 990 neurons 0.053, 1278 neurons 0.030, 15188 neurons 0.601[0m
+[92maveraged covered neurons 0.528[0m
+[92mcovered neurons percentage 990 neurons 0.053, 1278 neurons 0.030, 15188 neurons 0.601[0m
+[92maveraged covered neurons 0.528[0m
+[92mcovered neurons percentage 990 neurons 0.053, 1278 neurons 0.030, 15188 neurons 0.601[0m
+[92maveraged covered neurons 0.528[0m
+[92mcovered neurons percentage 990 neurons 0.054, 1278 neurons 0.030, 15188 neurons 0.601[0m
+[92maveraged covered neurons 0.528[0m
+[92minput already causes different outputs: 1, 1, 7[0m
+[92mcovered neurons percentage 990 neurons 0.054, 1278 neurons 0.030, 15188 neurons 0.602[0m
+[92maveraged covered neurons 0.529[0m
+[92mcovered neurons percentage 990 neurons 0.054, 1278 neurons 0.030, 15188 neurons 0.602[0m
+[92maveraged covered neurons 0.529[0m
+[92mcovered neurons percentage 990 neurons 0.054, 1278 neurons 0.030, 15188 neurons 0.603[0m
+[92maveraged covered neurons 0.530[0m
+[92mcovered neurons percentage 990 neurons 0.054, 1278 neurons 0.030, 15188 neurons 0.603[0m
+[92maveraged covered neurons 0.530[0m
+[92minput already causes different outputs: 0, 0, 6[0m
+[92mcovered neurons percentage 990 neurons 0.054, 1278 neurons 0.030, 15188 neurons 0.603[0m
+[92maveraged covered neurons 0.530[0m
+[92mcovered neurons percentage 990 neurons 0.054, 1278 neurons 0.030, 15188 neurons 0.603[0m
+[92maveraged covered neurons 0.530[0m
+[92mcovered neurons percentage 990 neurons 0.054, 1278 neurons 0.030, 15188 neurons 0.603[0m
+[92maveraged covered neurons 0.530[0m
+[92mcovered neurons percentage 990 neurons 0.054, 1278 neurons 0.030, 15188 neurons 0.603[0m
+[92maveraged covered neurons 0.530[0m
+[92mcovered neurons percentage 990 neurons 0.054, 1278 neurons 0.030, 15188 neurons 0.603[0m
+[92maveraged covered neurons 0.530[0m
+[92mcovered neurons percentage 990 neurons 0.054, 1278 neurons 0.030, 15188 neurons 0.603[0m
+[92maveraged covered neurons 0.530[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.603[0m
+[92maveraged covered neurons 0.530[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.530[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92minput already causes different outputs: 6, 6, 5[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92minput already causes different outputs: 1, 1, 2[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.055, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.604[0m
+[92maveraged covered neurons 0.531[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.605[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.605[0m
+[92maveraged covered neurons 0.532[0m
+Done 70.0 %
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.605[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.605[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.605[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.605[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.605[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.532[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.533[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.533[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.533[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.533[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.533[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.533[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.533[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.533[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.533[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.606[0m
+[92maveraged covered neurons 0.533[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.607[0m
+[92maveraged covered neurons 0.533[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.607[0m
+[92maveraged covered neurons 0.533[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.607[0m
+[92maveraged covered neurons 0.533[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.607[0m
+[92maveraged covered neurons 0.534[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.607[0m
+[92maveraged covered neurons 0.534[0m
+[92mcovered neurons percentage 990 neurons 0.057, 1278 neurons 0.030, 15188 neurons 0.607[0m
+[92maveraged covered neurons 0.534[0m
+[92mcovered neurons percentage 990 neurons 0.058, 1278 neurons 0.030, 15188 neurons 0.607[0m
+[92maveraged covered neurons 0.534[0m
+[92minput already causes different outputs: 1, 4, 4[0m
+[92mcovered neurons percentage 990 neurons 0.058, 1278 neurons 0.030, 15188 neurons 0.608[0m
+[92maveraged covered neurons 0.534[0m
+[92mcovered neurons percentage 990 neurons 0.058, 1278 neurons 0.030, 15188 neurons 0.608[0m
+[92maveraged covered neurons 0.534[0m
+[92mcovered neurons percentage 990 neurons 0.058, 1278 neurons 0.030, 15188 neurons 0.608[0m
+[92maveraged covered neurons 0.534[0m
+[92mcovered neurons percentage 990 neurons 0.058, 1278 neurons 0.030, 15188 neurons 0.608[0m
+[92maveraged covered neurons 0.534[0m
+[92mcovered neurons percentage 990 neurons 0.058, 1278 neurons 0.030, 15188 neurons 0.608[0m
+[92maveraged covered neurons 0.534[0m
+[92mcovered neurons percentage 990 neurons 0.058, 1278 neurons 0.030, 15188 neurons 0.608[0m
+[92maveraged covered neurons 0.535[0m
+[92mcovered neurons percentage 990 neurons 0.058, 1278 neurons 0.030, 15188 neurons 0.608[0m
+[92maveraged covered neurons 0.535[0m
+[92mcovered neurons percentage 990 neurons 0.058, 1278 neurons 0.030, 15188 neurons 0.608[0m
+[92maveraged covered neurons 0.535[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.608[0m
+[92maveraged covered neurons 0.535[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.608[0m
+[92maveraged covered neurons 0.535[0m
+Done 80.0 %
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.608[0m
+[92maveraged covered neurons 0.535[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.609[0m
+[92maveraged covered neurons 0.535[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.609[0m
+[92maveraged covered neurons 0.535[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.609[0m
+[92maveraged covered neurons 0.535[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.609[0m
+[92maveraged covered neurons 0.535[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.609[0m
+[92maveraged covered neurons 0.535[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.609[0m
+[92maveraged covered neurons 0.535[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.609[0m
+[92maveraged covered neurons 0.536[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.609[0m
+[92maveraged covered neurons 0.536[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.609[0m
+[92maveraged covered neurons 0.536[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.609[0m
+[92maveraged covered neurons 0.536[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.610[0m
+[92maveraged covered neurons 0.537[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.611[0m
+[92maveraged covered neurons 0.537[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.611[0m
+[92maveraged covered neurons 0.537[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.611[0m
+[92maveraged covered neurons 0.537[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.611[0m
+[92maveraged covered neurons 0.537[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.611[0m
+[92maveraged covered neurons 0.537[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.611[0m
+[92maveraged covered neurons 0.537[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.611[0m
+[92maveraged covered neurons 0.537[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.611[0m
+[92maveraged covered neurons 0.537[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.611[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.612[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.538[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.539[0m
+Done 90.0 %
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.539[0m
+[92minput already causes different outputs: 1, 7, 2[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.613[0m
+[92maveraged covered neurons 0.539[0m
+[92minput already causes different outputs: 2, 7, 2[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.539[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.614[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.540[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.541[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.541[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.541[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.541[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.541[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.541[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.541[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.541[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.541[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.541[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.615[0m
+[92maveraged covered neurons 0.541[0m
+[92mcovered neurons percentage 990 neurons 0.059, 1278 neurons 0.030, 15188 neurons 0.616[0m
+[92maveraged covered neurons 0.541[0m
+
+**** Result ****
+No of test inputs generated:  405
+Cumulative coverage for tests:  0.616
+Avg. test generation time: 80 s
+Total time: 32358.13 s
+
+
+

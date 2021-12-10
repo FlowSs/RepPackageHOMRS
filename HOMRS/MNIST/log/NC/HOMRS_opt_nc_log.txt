@@ -1,0 +1,564 @@
+Loading settings
+Loading model from model_save/lenet/mnist...
+Training on 50000 examples, Validating on 10000 examples, Testing on 10000 examples
+Model: "model"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+input (InputLayer)           [(None, 28, 28, 1)]       0         
+_________________________________________________________________
+block1_conv1 (Conv2D)        (None, 28, 28, 6)         156       
+_________________________________________________________________
+block1_pool1 (MaxPooling2D)  (None, 14, 14, 6)         0         
+_________________________________________________________________
+drop_1 (Dropout)             (None, 14, 14, 6)         0         
+_________________________________________________________________
+block2_conv1 (Conv2D)        (None, 14, 14, 16)        2416      
+_________________________________________________________________
+block2_pool1 (MaxPooling2D)  (None, 7, 7, 16)          0         
+_________________________________________________________________
+drop_2 (Dropout)             (None, 7, 7, 16)          0         
+_________________________________________________________________
+flatten (Flatten)            (None, 784)               0         
+_________________________________________________________________
+fc1 (Dense)                  (None, 120)               94200     
+_________________________________________________________________
+fc2 (Dense)                  (None, 84)                10164     
+_________________________________________________________________
+drop_3 (Dropout)             (None, 84)                0         
+_________________________________________________________________
+before_softmax (Dense)       (None, 10)                850       
+_________________________________________________________________
+predictions (Activation)     (None, 10)                0         
+=================================================================
+Total params: 107,786
+Trainable params: 107,786
+Non-trainable params: 0
+_________________________________________________________________
+Val X size :  (6000, 28, 28, 1)
+Number of activations considered :  268
+Calculating uncertainty threshold...
+Uncertainty threshold for 95% test set :  0.86
+Number of samples above this threshold for the median curve :  0.179826638
+Uncertainty threshold 0.5
+Number of samples above this threshold for the median curve :  0.6432708333333333
+Experiment 1/10
+
+Subset size :  600
+1/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $473.5391445159912
+
+
+Time to compute :  473.69299054145813
+Finished...
+Subset size :  600
+2/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $473.21356892585754
+
+
+Time to compute :  473.34368324279785
+Finished...
+Subset size :  600
+3/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $472.26687955856323
+
+
+Time to compute :  472.39868807792664
+Finished...
+Subset size :  600
+4/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $467.9253103733063
+
+
+Time to compute :  468.05804228782654
+Finished...
+Subset size :  600
+5/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $400.9950783252716
+
+
+Time to compute :  401.12513756752014
+Finished...
+Experiment 2/10
+
+Subset size :  600
+1/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $479.3155677318573
+
+
+Time to compute :  479.39907693862915
+Finished...
+Subset size :  600
+2/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $414.79798412323
+
+
+Time to compute :  414.93362617492676
+Finished...
+Subset size :  600
+3/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $367.41070008277893
+
+
+Time to compute :  367.54174518585205
+Finished...
+Subset size :  600
+4/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $439.6907260417938
+
+
+Time to compute :  439.82174372673035
+Finished...
+Subset size :  600
+5/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $389.8139600753784
+
+
+Time to compute :  389.94608759880066
+Finished...
+Experiment 3/10
+
+Subset size :  600
+1/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $490.1897027492523
+
+
+Time to compute :  490.27756547927856
+Finished...
+Subset size :  600
+2/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $395.4540731906891
+
+
+Time to compute :  395.59187960624695
+Finished...
+Subset size :  600
+3/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $435.97996401786804
+
+
+Time to compute :  436.11045837402344
+Finished...
+Subset size :  600
+4/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $449.9556541442871
+
+
+Time to compute :  450.0905554294586
+Finished...
+Subset size :  600
+5/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $378.12550234794617
+
+
+Time to compute :  378.25638484954834
+Finished...
+Experiment 4/10
+
+Subset size :  600
+1/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $495.88593673706055
+
+
+Time to compute :  495.9710397720337
+Finished...
+Subset size :  600
+2/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $426.89339327812195
+
+
+Time to compute :  427.03029131889343
+Finished...
+Subset size :  600
+3/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $399.74084758758545
+
+
+Time to compute :  399.8720712661743
+Finished...
+Subset size :  600
+4/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $404.87614011764526
+
+
+Time to compute :  405.00695991516113
+Finished...
+Subset size :  600
+5/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $479.4423429965973
+
+
+Time to compute :  479.573588848114
+Finished...
+Experiment 5/10
+
+Subset size :  600
+1/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $501.91106390953064
+
+
+Time to compute :  502.00021052360535
+Finished...
+Subset size :  600
+2/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $407.8199167251587
+
+
+Time to compute :  407.9502463340759
+Finished...
+Subset size :  600
+3/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $498.51709723472595
+
+
+Time to compute :  498.6501898765564
+Finished...
+Subset size :  600
+4/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $426.7746798992157
+
+
+Time to compute :  427.0828182697296
+Finished...
+Subset size :  600
+5/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $477.3493254184723
+
+
+Time to compute :  477.48165130615234
+Finished...
+Experiment 6/10
+
+Subset size :  600
+1/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $481.95420575141907
+
+
+Time to compute :  482.06577610969543
+Finished...
+Subset size :  600
+2/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $422.7966160774231
+
+
+Time to compute :  422.9289548397064
+Finished...
+Subset size :  600
+3/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $469.8638753890991
+
+
+Time to compute :  469.9970610141754
+Finished...
+Subset size :  600
+4/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $432.3379011154175
+
+
+Time to compute :  432.4706151485443
+Finished...
+Subset size :  600
+5/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $395.2918236255646
+
+
+Time to compute :  395.4245183467865
+Finished...
+Experiment 7/10
+
+Subset size :  600
+1/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $494.2973072528839
+
+
+Time to compute :  494.38865852355957
+Finished...
+Subset size :  600
+2/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $422.0267357826233
+
+
+Time to compute :  422.15998101234436
+Finished...
+Subset size :  600
+3/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $480.8389868736267
+
+
+Time to compute :  480.9724063873291
+Finished...
+Subset size :  600
+4/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $456.46840357780457
+
+
+Time to compute :  456.5995545387268
+Finished...
+Subset size :  600
+5/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $385.26350688934326
+
+
+Time to compute :  385.4005596637726
+Finished...
+Experiment 8/10
+
+Subset size :  600
+1/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $490.8180994987488
+
+
+Time to compute :  490.90615725517273
+Finished...
+Subset size :  600
+2/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $398.9645166397095
+
+
+Time to compute :  399.0978343486786
+Finished...
+Subset size :  600
+3/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $395.43642926216125
+
+
+Time to compute :  395.56967091560364
+Finished...
+Subset size :  600
+4/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $453.6646099090576
+
+
+Time to compute :  453.79644083976746
+Finished...
+Subset size :  600
+5/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $427.19108486175537
+
+
+Time to compute :  427.3226225376129
+Finished...
+Experiment 9/10
+
+Subset size :  600
+1/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $492.34566617012024
+
+
+Time to compute :  492.4349522590637
+Finished...
+Subset size :  600
+2/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $442.28795742988586
+
+
+Time to compute :  442.41992235183716
+Finished...
+Subset size :  600
+3/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $391.4291956424713
+
+
+Time to compute :  391.565798997879
+Finished...
+Subset size :  600
+4/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $435.6014380455017
+
+
+Time to compute :  435.73179388046265
+Finished...
+Subset size :  600
+5/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $335.5919289588928
+
+
+Time to compute :  335.72383737564087
+Finished...
+Experiment 10/10
+
+Subset size :  600
+1/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $489.287584066391
+
+
+Time to compute :  489.3708465099335
+Finished...
+Subset size :  600
+2/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $452.0943822860718
+
+
+Time to compute :  452.2276339530945
+Finished...
+Subset size :  600
+3/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $449.1659154891968
+
+
+Time to compute :  449.300199508667
+Finished...
+Subset size :  600
+4/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $422.43744373321533
+
+
+Time to compute :  422.56898283958435
+Finished...
+Subset size :  600
+5/5
+Solving with multi-objective NSGAII
+Algorithm: $NSGAII
+Problem: $MyProblem
+Computing time: $349.821400642395
+
+
+Time to compute :  349.95970726013184
+Finished...

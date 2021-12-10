@@ -1,0 +1,153 @@
+Loading settings
+Loading model from model_save/vgg/svnh...
+Training on 65931 examples, Validating on 7326 examples, Testing on 26032 examples
+Model: "model"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+input (InputLayer)           [(None, 32, 32, 3)]       0         
+_________________________________________________________________
+conv2d (Conv2D)              (None, 32, 32, 64)        1792      
+_________________________________________________________________
+conv2d_1 (Conv2D)            (None, 32, 32, 64)        36928     
+_________________________________________________________________
+max_pooling2d (MaxPooling2D) (None, 16, 16, 64)        0         
+_________________________________________________________________
+dropout (Dropout)            (None, 16, 16, 64)        0         
+_________________________________________________________________
+conv2d_2 (Conv2D)            (None, 16, 16, 128)       73856     
+_________________________________________________________________
+conv2d_3 (Conv2D)            (None, 16, 16, 128)       147584    
+_________________________________________________________________
+max_pooling2d_1 (MaxPooling2 (None, 8, 8, 128)         0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 8, 8, 128)         0         
+_________________________________________________________________
+conv2d_4 (Conv2D)            (None, 8, 8, 256)         295168    
+_________________________________________________________________
+conv2d_5 (Conv2D)            (None, 8, 8, 256)         590080    
+_________________________________________________________________
+conv2d_6 (Conv2D)            (None, 8, 8, 256)         590080    
+_________________________________________________________________
+conv2d_7 (Conv2D)            (None, 8, 8, 256)         590080    
+_________________________________________________________________
+max_pooling2d_2 (MaxPooling2 (None, 4, 4, 256)         0         
+_________________________________________________________________
+dropout_2 (Dropout)          (None, 4, 4, 256)         0         
+_________________________________________________________________
+conv2d_8 (Conv2D)            (None, 4, 4, 512)         1180160   
+_________________________________________________________________
+conv2d_9 (Conv2D)            (None, 4, 4, 512)         2359808   
+_________________________________________________________________
+conv2d_10 (Conv2D)           (None, 4, 4, 512)         2359808   
+_________________________________________________________________
+conv2d_11 (Conv2D)           (None, 4, 4, 512)         2359808   
+_________________________________________________________________
+max_pooling2d_3 (MaxPooling2 (None, 2, 2, 512)         0         
+_________________________________________________________________
+dropout_3 (Dropout)          (None, 2, 2, 512)         0         
+_________________________________________________________________
+conv2d_12 (Conv2D)           (None, 2, 2, 512)         2359808   
+_________________________________________________________________
+conv2d_13 (Conv2D)           (None, 2, 2, 512)         2359808   
+_________________________________________________________________
+conv2d_14 (Conv2D)           (None, 2, 2, 512)         2359808   
+_________________________________________________________________
+conv2d_15 (Conv2D)           (None, 2, 2, 512)         2359808   
+_________________________________________________________________
+max_pooling2d_4 (MaxPooling2 (None, 1, 1, 512)         0         
+_________________________________________________________________
+dropout_4 (Dropout)          (None, 1, 1, 512)         0         
+_________________________________________________________________
+flatten (Flatten)            (None, 512)               0         
+_________________________________________________________________
+dense (Dense)                (None, 4096)              2101248   
+_________________________________________________________________
+dropout_5 (Dropout)          (None, 4096)              0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 4096)              16781312  
+_________________________________________________________________
+dropout_6 (Dropout)          (None, 4096)              0         
+_________________________________________________________________
+before_softmax (Dense)       (None, 10)                40970     
+_________________________________________________________________
+activation (Activation)      (None, 10)                0         
+=================================================================
+Total params: 38,947,914
+Trainable params: 38,947,914
+Non-trainable params: 0
+_________________________________________________________________
+Dataset: uncertainty
+Dataset: adv
+Loading adv examples...
+Dataset: Mix OOD
+Experiment 1/10
+
+Calculation for the chosen MR set
+Number of (unique) adv examples:  11970
+Number of adv examples:  23387
+Done
+Time  401.53787779808044
+Experiment 2/10
+
+Calculation for the chosen MR set
+Number of (unique) adv examples:  11245
+Number of adv examples:  22802
+Done
+Time  401.6336998939514
+Experiment 3/10
+
+Calculation for the chosen MR set
+Number of (unique) adv examples:  10035
+Number of adv examples:  16334
+Done
+Time  320.51192569732666
+Experiment 4/10
+
+Calculation for the chosen MR set
+Number of (unique) adv examples:  10762
+Number of adv examples:  20840
+Done
+Time  403.09524369239807
+Experiment 5/10
+
+Calculation for the chosen MR set
+Number of (unique) adv examples:  10285
+Number of adv examples:  19505
+Done
+Time  401.6298213005066
+Experiment 6/10
+
+Calculation for the chosen MR set
+Number of (unique) adv examples:  9555
+Number of adv examples:  18106
+Done
+Time  406.5273880958557
+Experiment 7/10
+
+Calculation for the chosen MR set
+Number of (unique) adv examples:  9794
+Number of adv examples:  18371
+Done
+Time  399.578622341156
+Experiment 8/10
+
+Calculation for the chosen MR set
+Number of (unique) adv examples:  10421
+Number of adv examples:  20525
+Done
+Time  401.70985436439514
+Experiment 9/10
+
+Calculation for the chosen MR set
+Number of (unique) adv examples:  11823
+Number of adv examples:  20660
+Done
+Time  404.22566175460815
+Experiment 10/10
+
+Calculation for the chosen MR set
+Number of (unique) adv examples:  11493
+Number of adv examples:  23023
+Done
+Time  403.1843328475952

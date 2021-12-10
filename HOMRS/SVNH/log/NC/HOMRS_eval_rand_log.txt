@@ -1,0 +1,322 @@
+Loading settings
+Loading model from model_save/vgg/svnh...
+Training on 65931 examples, Validating on 7326 examples, Testing on 26032 examples
+Model: "model"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+input (InputLayer)           [(None, 32, 32, 3)]       0         
+_________________________________________________________________
+conv2d (Conv2D)              (None, 32, 32, 64)        1792      
+_________________________________________________________________
+conv2d_1 (Conv2D)            (None, 32, 32, 64)        36928     
+_________________________________________________________________
+max_pooling2d (MaxPooling2D) (None, 16, 16, 64)        0         
+_________________________________________________________________
+dropout (Dropout)            (None, 16, 16, 64)        0         
+_________________________________________________________________
+conv2d_2 (Conv2D)            (None, 16, 16, 128)       73856     
+_________________________________________________________________
+conv2d_3 (Conv2D)            (None, 16, 16, 128)       147584    
+_________________________________________________________________
+max_pooling2d_1 (MaxPooling2 (None, 8, 8, 128)         0         
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 8, 8, 128)         0         
+_________________________________________________________________
+conv2d_4 (Conv2D)            (None, 8, 8, 256)         295168    
+_________________________________________________________________
+conv2d_5 (Conv2D)            (None, 8, 8, 256)         590080    
+_________________________________________________________________
+conv2d_6 (Conv2D)            (None, 8, 8, 256)         590080    
+_________________________________________________________________
+conv2d_7 (Conv2D)            (None, 8, 8, 256)         590080    
+_________________________________________________________________
+max_pooling2d_2 (MaxPooling2 (None, 4, 4, 256)         0         
+_________________________________________________________________
+dropout_2 (Dropout)          (None, 4, 4, 256)         0         
+_________________________________________________________________
+conv2d_8 (Conv2D)            (None, 4, 4, 512)         1180160   
+_________________________________________________________________
+conv2d_9 (Conv2D)            (None, 4, 4, 512)         2359808   
+_________________________________________________________________
+conv2d_10 (Conv2D)           (None, 4, 4, 512)         2359808   
+_________________________________________________________________
+conv2d_11 (Conv2D)           (None, 4, 4, 512)         2359808   
+_________________________________________________________________
+max_pooling2d_3 (MaxPooling2 (None, 2, 2, 512)         0         
+_________________________________________________________________
+dropout_3 (Dropout)          (None, 2, 2, 512)         0         
+_________________________________________________________________
+conv2d_12 (Conv2D)           (None, 2, 2, 512)         2359808   
+_________________________________________________________________
+conv2d_13 (Conv2D)           (None, 2, 2, 512)         2359808   
+_________________________________________________________________
+conv2d_14 (Conv2D)           (None, 2, 2, 512)         2359808   
+_________________________________________________________________
+conv2d_15 (Conv2D)           (None, 2, 2, 512)         2359808   
+_________________________________________________________________
+max_pooling2d_4 (MaxPooling2 (None, 1, 1, 512)         0         
+_________________________________________________________________
+dropout_4 (Dropout)          (None, 1, 1, 512)         0         
+_________________________________________________________________
+flatten (Flatten)            (None, 512)               0         
+_________________________________________________________________
+dense (Dense)                (None, 4096)              2101248   
+_________________________________________________________________
+dropout_5 (Dropout)          (None, 4096)              0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 4096)              16781312  
+_________________________________________________________________
+dropout_6 (Dropout)          (None, 4096)              0         
+_________________________________________________________________
+before_softmax (Dense)       (None, 10)                40970     
+_________________________________________________________________
+activation (Activation)      (None, 10)                0         
+=================================================================
+Total params: 38,947,914
+Trainable params: 38,947,914
+Non-trainable params: 0
+_________________________________________________________________
+Number of activations considered :  15188
+Test size :  7326
+Experiment 1/30
+
+Calculating for test set alone
+Calculation for the chosen MR set
+Coverage :  0.7576376086383987
+Similarity :  0.9513949592564288
+Kill ratio :  0.3381108381108381
+Done
+Time  284.17636942863464
+Experiment 2/30
+
+Calculation for the chosen MR set
+Coverage :  0.7559257308401369
+Similarity :  0.9679968827256159
+Kill ratio :  0.15397215397215397
+Done
+Time  253.6592721939087
+Experiment 3/30
+
+Calculation for the chosen MR set
+Coverage :  0.7542796944956545
+Similarity :  0.9686484692607945
+Kill ratio :  0.16816816816816818
+Done
+Time  253.3038866519928
+Experiment 4/30
+
+Calculation for the chosen MR set
+Coverage :  0.753950487226758
+Similarity :  0.9726887199167946
+Kill ratio :  0.12093912093912094
+Done
+Time  252.84109497070312
+Experiment 5/30
+
+Calculation for the chosen MR set
+Coverage :  0.7602054253357914
+Similarity :  0.9595524068134023
+Kill ratio :  0.2784602784602785
+Done
+Time  254.31005883216858
+Experiment 6/30
+
+Calculation for the chosen MR set
+Coverage :  0.7565183039241506
+Similarity :  0.9653680226303349
+Kill ratio :  0.18755118755118755
+Done
+Time  257.2654867172241
+Experiment 7/30
+
+Calculation for the chosen MR set
+Coverage :  0.7564524624703713
+Similarity :  0.9618170861981764
+Kill ratio :  0.22536172536172536
+Done
+Time  252.5378224849701
+Experiment 8/30
+
+Calculation for the chosen MR set
+Coverage :  0.7559257308401369
+Similarity :  0.9656133519973393
+Kill ratio :  0.1831831831831832
+Done
+Time  257.1355628967285
+Experiment 9/30
+
+Calculation for the chosen MR set
+Coverage :  0.7551356333947854
+Similarity :  0.9739001050036078
+Kill ratio :  0.13813813813813813
+Done
+Time  252.28276300430298
+Experiment 10/30
+
+Calculation for the chosen MR set
+Coverage :  0.7561890966552541
+Similarity :  0.966894494633499
+Kill ratio :  0.1814086814086814
+Done
+Time  254.7955858707428
+Experiment 11/30
+
+Calculation for the chosen MR set
+Coverage :  0.7607979984198051
+Similarity :  0.9655037061147149
+Kill ratio :  0.18932568932568933
+Done
+Time  253.9310483932495
+Experiment 12/30
+
+Calculation for the chosen MR set
+Coverage :  0.7601395838820121
+Similarity :  0.9697393840796528
+Kill ratio :  0.14782964782964783
+Done
+Time  251.89036417007446
+Experiment 13/30
+
+Calculation for the chosen MR set
+Coverage :  0.7479589149328417
+Similarity :  0.9726261882108604
+Kill ratio :  0.1420966420966421
+Done
+Time  259.59491658210754
+Experiment 14/30
+
+Calculation for the chosen MR set
+Coverage :  0.7588885962602054
+Similarity :  0.9618431837157144
+Kill ratio :  0.21676221676221677
+Done
+Time  256.56898641586304
+Experiment 15/30
+
+Calculation for the chosen MR set
+Coverage :  0.7569791941006058
+Similarity :  0.9610316741670443
+Kill ratio :  0.24843024843024844
+Done
+Time  258.44817328453064
+Experiment 16/30
+
+Calculation for the chosen MR set
+Coverage :  0.7573084013695023
+Similarity :  0.9691457109418659
+Kill ratio :  0.15465465465465467
+Done
+Time  259.5592405796051
+Experiment 17/30
+
+Calculation for the chosen MR set
+Coverage :  0.7538188043191993
+Similarity :  0.973288385232025
+Kill ratio :  0.13035763035763034
+Done
+Time  256.60084772109985
+Experiment 18/30
+
+Calculation for the chosen MR set
+Coverage :  0.7598762180668949
+Similarity :  0.963499697533145
+Kill ratio :  0.2052962052962053
+Done
+Time  254.073584318161
+Experiment 19/30
+
+Calculation for the chosen MR set
+Coverage :  0.7569791941006058
+Similarity :  0.9611054676435241
+Kill ratio :  0.24993174993174994
+Done
+Time  253.25362014770508
+Experiment 20/30
+
+Calculation for the chosen MR set
+Coverage :  0.7550039504872268
+Similarity :  0.9629649084284322
+Kill ratio :  0.2362817362817363
+Done
+Time  258.35311460494995
+Experiment 21/30
+
+Calculation for the chosen MR set
+Coverage :  0.751975243613379
+Similarity :  0.9704606832273412
+Kill ratio :  0.15793065793065794
+Done
+Time  254.55837082862854
+Experiment 22/30
+
+Calculation for the chosen MR set
+Coverage :  0.7538846457729786
+Similarity :  0.9676597030626528
+Kill ratio :  0.1653016653016653
+Done
+Time  257.68148708343506
+Experiment 23/30
+
+Calculation for the chosen MR set
+Coverage :  0.7592836449828813
+Similarity :  0.9702471961031348
+Kill ratio :  0.1491946491946492
+Done
+Time  253.7377200126648
+Experiment 24/30
+
+Calculation for the chosen MR set
+Coverage :  0.7523702923360548
+Similarity :  0.9653758482307336
+Kill ratio :  0.17840567840567842
+Done
+Time  250.63970065116882
+Experiment 25/30
+
+Calculation for the chosen MR set
+Coverage :  0.7568475111930472
+Similarity :  0.9713848919669305
+Kill ratio :  0.1521976521976522
+Done
+Time  256.618727684021
+Experiment 26/30
+
+Calculation for the chosen MR set
+Coverage :  0.7528970239662892
+Similarity :  0.9738480321967286
+Kill ratio :  0.1279006279006279
+Done
+Time  253.88308763504028
+Experiment 27/30
+
+Calculation for the chosen MR set
+Coverage :  0.7582301817224124
+Similarity :  0.9693333378150341
+Kill ratio :  0.1941031941031941
+Done
+Time  255.95155119895935
+Experiment 28/30
+
+Calculation for the chosen MR set
+Coverage :  0.7562549381090334
+Similarity :  0.9714344171547228
+Kill ratio :  0.1532896532896533
+Done
+Time  258.36633706092834
+Experiment 29/30
+
+Calculation for the chosen MR set
+Coverage :  0.750658414537793
+Similarity :  0.9696104854585231
+Kill ratio :  0.16871416871416872
+Done
+Time  255.77146434783936
+Experiment 30/30
+
+Calculation for the chosen MR set
+Coverage :  0.759217803529102
+Similarity :  0.9653048444331037
+Kill ratio :  0.19642369642369642
+Done
+Time  253.82590460777283

@@ -1,0 +1,120 @@
+Loading settings
+Loading model from model_save/lenet/mnist...
+Training on 50000 examples, Validating on 10000 examples, Testing on 10000 examples
+Model: "model"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+input (InputLayer)           [(None, 28, 28, 1)]       0         
+_________________________________________________________________
+block1_conv1 (Conv2D)        (None, 28, 28, 6)         156       
+_________________________________________________________________
+block1_pool1 (MaxPooling2D)  (None, 14, 14, 6)         0         
+_________________________________________________________________
+drop_1 (Dropout)             (None, 14, 14, 6)         0         
+_________________________________________________________________
+block2_conv1 (Conv2D)        (None, 14, 14, 16)        2416      
+_________________________________________________________________
+block2_pool1 (MaxPooling2D)  (None, 7, 7, 16)          0         
+_________________________________________________________________
+drop_2 (Dropout)             (None, 7, 7, 16)          0         
+_________________________________________________________________
+flatten (Flatten)            (None, 784)               0         
+_________________________________________________________________
+fc1 (Dense)                  (None, 120)               94200     
+_________________________________________________________________
+fc2 (Dense)                  (None, 84)                10164     
+_________________________________________________________________
+drop_3 (Dropout)             (None, 84)                0         
+_________________________________________________________________
+before_softmax (Dense)       (None, 10)                850       
+_________________________________________________________________
+predictions (Activation)     (None, 10)                0         
+=================================================================
+Total params: 107,786
+Trainable params: 107,786
+Non-trainable params: 0
+_________________________________________________________________
+Number of activations considered :  268
+Threshold:  0.86
+Experiment 1/10
+
+Calculating for test set alone
+Calculation for the chosen MR set
+Coverage :  0.8246268656716418
+Similarity :  0.8753703980099503
+Kill ratio :  0.7378
+Done
+Time  66.89666295051575
+Experiment 2/10
+
+Calculation for the chosen MR set
+Coverage :  0.832089552238806
+Similarity :  0.8582997014925373
+Kill ratio :  0.768
+Done
+Time  60.452818155288696
+Experiment 3/10
+
+Calculation for the chosen MR set
+Coverage :  0.8283582089552238
+Similarity :  0.852400472636816
+Kill ratio :  0.8201
+Done
+Time  62.95522499084473
+Experiment 4/10
+
+Calculation for the chosen MR set
+Coverage :  0.832089552238806
+Similarity :  0.8639985323383086
+Kill ratio :  0.7858
+Done
+Time  59.07771611213684
+Experiment 5/10
+
+Calculation for the chosen MR set
+Coverage :  0.832089552238806
+Similarity :  0.8672830845771144
+Kill ratio :  0.8204
+Done
+Time  52.88738131523132
+Experiment 6/10
+
+Calculation for the chosen MR set
+Coverage :  0.8283582089552238
+Similarity :  0.8465900746268658
+Kill ratio :  0.8138
+Done
+Time  50.33546757698059
+Experiment 7/10
+
+Calculation for the chosen MR set
+Coverage :  0.835820895522388
+Similarity :  0.8540231840796018
+Kill ratio :  0.7691
+Done
+Time  58.19285750389099
+Experiment 8/10
+
+Calculation for the chosen MR set
+Coverage :  0.8283582089552238
+Similarity :  0.8561851243781095
+Kill ratio :  0.7528
+Done
+Time  59.44457697868347
+Experiment 9/10
+
+Calculation for the chosen MR set
+Coverage :  0.832089552238806
+Similarity :  0.8577984328358209
+Kill ratio :  0.7464
+Done
+Time  59.18783521652222
+Experiment 10/10
+
+Calculation for the chosen MR set
+Coverage :  0.832089552238806
+Similarity :  0.8543668407960199
+Kill ratio :  0.8108
+Done
+Time  56.85198950767517

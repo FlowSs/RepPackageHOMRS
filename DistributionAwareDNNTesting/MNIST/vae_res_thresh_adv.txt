@@ -1,0 +1,5 @@
+Calculating on ADV set using FGSM with epsilon=0.2
+Done for vae_threshold:  -2708.34
+Current F-Score:  0.9978511818499826
+False Positive:  0.27
+False Negative:  0.16

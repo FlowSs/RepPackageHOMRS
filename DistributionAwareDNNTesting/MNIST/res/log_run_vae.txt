@@ -1,0 +1,662 @@
+Namespace(grad_iterations=30, occlusion_size=(10, 10), seeds=500, start_point=(0, 0), step=0.1, target_model=2, threshold=0.25, transformation='light', weight_diff=3.0, weight_nc=0.5, weight_vae=0.1)
+
+
+
+[94mModel1 loaded[0m
+[94mModel2 loaded[0m
+[94mModel3 loaded[0m
+*****Running VAE+Baseline test....
+Using transformation:  light
+Done 0.0 %
+input already causes different outputs: 3, 9, 9
+covered neurons percentage 52 neurons 0.192, 148 neurons 0.169, 268 neurons 0.131
+averaged covered neurons 0.150
+covered neurons percentage 52 neurons 0.269, 148 neurons 0.338, 268 neurons 0.265
+averaged covered neurons 0.288
+input already causes different outputs: 5, 5, 8
+covered neurons percentage 52 neurons 0.308, 148 neurons 0.392, 268 neurons 0.343
+averaged covered neurons 0.355
+Done 10.0 %
+input already causes different outputs: 9, 8, 8
+covered neurons percentage 52 neurons 0.308, 148 neurons 0.419, 268 neurons 0.377
+averaged covered neurons 0.382
+input already causes different outputs: 0, 8, 8
+covered neurons percentage 52 neurons 0.327, 148 neurons 0.486, 268 neurons 0.407
+averaged covered neurons 0.423
+Done 20.0 %
+input already causes different outputs: 0, 6, 0
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.534, 268 neurons 0.440
+averaged covered neurons 0.459
+Done 30.0 %
+Done 40.0 %
+Done 50.0 %
+input already causes different outputs: 6, 6, 8
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.547, 268 neurons 0.463
+averaged covered neurons 0.476
+input already causes different outputs: 2, 0, 9
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.568, 268 neurons 0.493
+averaged covered neurons 0.500
+input already causes different outputs: 2, 2, 0
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.574, 268 neurons 0.504
+averaged covered neurons 0.509
+Done 60.0 %
+input already causes different outputs: 5, 8, 8
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.595, 268 neurons 0.537
+averaged covered neurons 0.534
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.601, 268 neurons 0.545
+averaged covered neurons 0.541
+input already causes different outputs: 0, 8, 8
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.601, 268 neurons 0.545
+averaged covered neurons 0.541
+input already causes different outputs: 9, 5, 9
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.601, 268 neurons 0.545
+averaged covered neurons 0.541
+Done 70.0 %
+input already causes different outputs: 3, 2, 2
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.601, 268 neurons 0.571
+averaged covered neurons 0.556
+Done 80.0 %
+input already causes different outputs: 3, 2, 2
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.601, 268 neurons 0.586
+averaged covered neurons 0.564
+Done 90.0 %
+input already causes different outputs: 7, 2, 2
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.608, 268 neurons 0.597
+averaged covered neurons 0.573
+input already causes different outputs: 4, 4, 9
+covered neurons percentage 52 neurons 0.365, 148 neurons 0.628, 268 neurons 0.608
+averaged covered neurons 0.588
+
+**** Result ****
+No of test inputs generated:  2
+Cumulative coverage for tests:  0.608
+Avg. test generation time: 25313 s
+Total time: 50625.87 s
+
+
+
+Namespace(grad_iterations=30, occlusion_size=(10, 10), seeds=500, start_point=(0, 0), step=0.1, target_model=2, threshold=0.25, transformation='occl', weight_diff=3.0, weight_nc=0.5, weight_vae=0.1)
+
+
+
+[94mModel1 loaded[0m
+[94mModel2 loaded[0m
+[94mModel3 loaded[0m
+*****Running VAE+Baseline test....
+Using transformation:  occl
+Done 0.0 %
+covered neurons percentage 52 neurons 0.154, 148 neurons 0.149, 268 neurons 0.160
+averaged covered neurons 0.156
+covered neurons percentage 52 neurons 0.269, 148 neurons 0.318, 268 neurons 0.284
+averaged covered neurons 0.293
+covered neurons percentage 52 neurons 0.269, 148 neurons 0.351, 268 neurons 0.310
+averaged covered neurons 0.318
+input already causes different outputs: 3, 9, 9
+covered neurons percentage 52 neurons 0.308, 148 neurons 0.459, 268 neurons 0.392
+averaged covered neurons 0.404
+covered neurons percentage 52 neurons 0.327, 148 neurons 0.541, 268 neurons 0.459
+averaged covered neurons 0.470
+covered neurons percentage 52 neurons 0.327, 148 neurons 0.561, 268 neurons 0.515
+averaged covered neurons 0.509
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.588, 268 neurons 0.552
+averaged covered neurons 0.541
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.588, 268 neurons 0.567
+averaged covered neurons 0.549
+input already causes different outputs: 5, 5, 8
+covered neurons percentage 52 neurons 0.365, 148 neurons 0.601, 268 neurons 0.597
+averaged covered neurons 0.573
+covered neurons percentage 52 neurons 0.365, 148 neurons 0.601, 268 neurons 0.612
+averaged covered neurons 0.581
+covered neurons percentage 52 neurons 0.365, 148 neurons 0.601, 268 neurons 0.612
+averaged covered neurons 0.581
+covered neurons percentage 52 neurons 0.365, 148 neurons 0.608, 268 neurons 0.616
+averaged covered neurons 0.585
+Done 10.0 %
+input already causes different outputs: 9, 8, 8
+covered neurons percentage 52 neurons 0.365, 148 neurons 0.608, 268 neurons 0.623
+averaged covered neurons 0.590
+input already causes different outputs: 0, 8, 8
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.615, 268 neurons 0.638
+averaged covered neurons 0.603
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.615, 268 neurons 0.638
+averaged covered neurons 0.603
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.615, 268 neurons 0.638
+averaged covered neurons 0.603
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.615, 268 neurons 0.638
+averaged covered neurons 0.603
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.615, 268 neurons 0.638
+averaged covered neurons 0.603
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.615, 268 neurons 0.642
+averaged covered neurons 0.605
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.622, 268 neurons 0.653
+averaged covered neurons 0.613
+generated outlier, not saving  82 15
+generated outlier, not saving  82 16
+generated outlier, not saving  82 17
+generated outlier, not saving  82 18
+generated outlier, not saving  82 19
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.628, 268 neurons 0.660
+averaged covered neurons 0.620
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.628, 268 neurons 0.660
+averaged covered neurons 0.620
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.628, 268 neurons 0.664
+averaged covered neurons 0.622
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.628, 268 neurons 0.664
+averaged covered neurons 0.622
+generated outlier, not saving  90 15
+generated outlier, not saving  90 16
+generated outlier, not saving  90 17
+generated outlier, not saving  90 18
+generated outlier, not saving  90 19
+generated outlier, not saving  90 20
+generated outlier, not saving  90 21
+generated outlier, not saving  90 22
+generated outlier, not saving  90 23
+generated outlier, not saving  90 24
+generated outlier, not saving  90 25
+generated outlier, not saving  90 26
+generated outlier, not saving  90 27
+generated outlier, not saving  90 28
+generated outlier, not saving  90 29
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.628, 268 neurons 0.675
+averaged covered neurons 0.628
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.642, 268 neurons 0.675
+averaged covered neurons 0.632
+generated outlier, not saving  95 17
+generated outlier, not saving  95 19
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.642, 268 neurons 0.675
+averaged covered neurons 0.632
+generated outlier, not saving  96 8
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.642, 268 neurons 0.675
+averaged covered neurons 0.632
+Done 20.0 %
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.642, 268 neurons 0.679
+averaged covered neurons 0.635
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.642, 268 neurons 0.679
+averaged covered neurons 0.635
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.642, 268 neurons 0.679
+averaged covered neurons 0.635
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.642, 268 neurons 0.679
+averaged covered neurons 0.635
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.687
+averaged covered neurons 0.641
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.687
+averaged covered neurons 0.641
+generated outlier, not saving  119 23
+generated outlier, not saving  119 24
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.690
+averaged covered neurons 0.643
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.694
+averaged covered neurons 0.645
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.698
+averaged covered neurons 0.647
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.701
+averaged covered neurons 0.650
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.701
+averaged covered neurons 0.650
+input already causes different outputs: 0, 6, 0
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.720
+averaged covered neurons 0.660
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.724
+averaged covered neurons 0.662
+generated outlier, not saving  134 15
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.724
+averaged covered neurons 0.662
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.724
+averaged covered neurons 0.662
+generated outlier, not saving  140 17
+generated outlier, not saving  140 18
+generated outlier, not saving  140 19
+generated outlier, not saving  140 20
+generated outlier, not saving  140 21
+generated outlier, not saving  140 22
+generated outlier, not saving  140 23
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.724
+averaged covered neurons 0.662
+generated outlier, not saving  146 17
+generated outlier, not saving  146 19
+generated outlier, not saving  146 20
+generated outlier, not saving  146 23
+generated outlier, not saving  146 24
+generated outlier, not saving  146 25
+generated outlier, not saving  146 26
+generated outlier, not saving  146 27
+generated outlier, not saving  146 28
+generated outlier, not saving  146 29
+Done 30.0 %
+generated outlier, not saving  150 25
+generated outlier, not saving  150 26
+generated outlier, not saving  150 27
+generated outlier, not saving  150 28
+generated outlier, not saving  150 29
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.724
+averaged covered neurons 0.662
+generated outlier, not saving  152 9
+generated outlier, not saving  152 10
+generated outlier, not saving  152 11
+generated outlier, not saving  152 12
+generated outlier, not saving  152 13
+generated outlier, not saving  152 14
+generated outlier, not saving  152 15
+generated outlier, not saving  152 16
+generated outlier, not saving  152 17
+generated outlier, not saving  152 18
+generated outlier, not saving  152 19
+generated outlier, not saving  152 20
+generated outlier, not saving  152 21
+generated outlier, not saving  152 22
+generated outlier, not saving  152 23
+generated outlier, not saving  152 24
+generated outlier, not saving  152 25
+generated outlier, not saving  152 26
+generated outlier, not saving  152 27
+generated outlier, not saving  152 28
+generated outlier, not saving  152 29
+generated outlier, not saving  154 9
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.724
+averaged covered neurons 0.662
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.724
+averaged covered neurons 0.662
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.724
+averaged covered neurons 0.662
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.724
+averaged covered neurons 0.662
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.728
+averaged covered neurons 0.665
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.728
+averaged covered neurons 0.665
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.728
+averaged covered neurons 0.665
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.728
+averaged covered neurons 0.665
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.728
+averaged covered neurons 0.665
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.728
+averaged covered neurons 0.665
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.728
+averaged covered neurons 0.665
+generated outlier, not saving  199 8
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.731
+averaged covered neurons 0.667
+Done 40.0 %
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.731
+averaged covered neurons 0.667
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.735
+averaged covered neurons 0.669
+generated outlier, not saving  204 14
+generated outlier, not saving  204 15
+generated outlier, not saving  204 16
+generated outlier, not saving  204 17
+generated outlier, not saving  204 18
+generated outlier, not saving  204 19
+generated outlier, not saving  204 20
+generated outlier, not saving  204 21
+generated outlier, not saving  204 22
+generated outlier, not saving  204 23
+generated outlier, not saving  204 24
+generated outlier, not saving  204 25
+generated outlier, not saving  204 26
+generated outlier, not saving  204 27
+generated outlier, not saving  204 28
+generated outlier, not saving  204 29
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.735
+averaged covered neurons 0.669
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.735
+averaged covered neurons 0.669
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.735
+averaged covered neurons 0.671
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.739
+averaged covered neurons 0.673
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.739
+averaged covered neurons 0.673
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.739
+averaged covered neurons 0.673
+generated outlier, not saving  220 22
+generated outlier, not saving  220 23
+generated outlier, not saving  220 24
+generated outlier, not saving  220 25
+generated outlier, not saving  220 26
+generated outlier, not saving  220 27
+generated outlier, not saving  220 28
+generated outlier, not saving  220 29
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.739
+averaged covered neurons 0.673
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.739
+averaged covered neurons 0.673
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.739
+averaged covered neurons 0.673
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.739
+averaged covered neurons 0.673
+Done 50.0 %
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.739
+averaged covered neurons 0.673
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.739
+averaged covered neurons 0.673
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.739
+averaged covered neurons 0.673
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.739
+averaged covered neurons 0.673
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.739
+averaged covered neurons 0.673
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+input already causes different outputs: 6, 6, 8
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+input already causes different outputs: 2, 0, 9
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+input already causes different outputs: 2, 2, 0
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+generated outlier, not saving  296 12
+generated outlier, not saving  296 13
+generated outlier, not saving  296 14
+generated outlier, not saving  296 15
+generated outlier, not saving  296 16
+generated outlier, not saving  296 17
+generated outlier, not saving  296 18
+generated outlier, not saving  296 19
+generated outlier, not saving  296 20
+generated outlier, not saving  296 21
+generated outlier, not saving  296 22
+generated outlier, not saving  296 23
+generated outlier, not saving  296 24
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+Done 60.0 %
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+input already causes different outputs: 5, 8, 8
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+generated outlier, not saving  332 14
+generated outlier, not saving  332 26
+generated outlier, not saving  332 27
+generated outlier, not saving  332 28
+generated outlier, not saving  332 29
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+input already causes different outputs: 0, 8, 8
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+generated outlier, not saving  344 21
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+input already causes different outputs: 9, 5, 9
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+generated outlier, not saving  346 26
+generated outlier, not saving  346 27
+generated outlier, not saving  346 28
+generated outlier, not saving  346 29
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+Done 70.0 %
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+input already causes different outputs: 3, 2, 2
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+generated outlier, not saving  366 20
+generated outlier, not saving  366 21
+generated outlier, not saving  366 22
+generated outlier, not saving  366 23
+generated outlier, not saving  366 24
+generated outlier, not saving  366 25
+generated outlier, not saving  366 26
+generated outlier, not saving  366 27
+generated outlier, not saving  366 28
+generated outlier, not saving  366 29
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+generated outlier, not saving  372 4
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+generated outlier, not saving  392 7
+generated outlier, not saving  392 8
+generated outlier, not saving  392 9
+generated outlier, not saving  392 10
+generated outlier, not saving  392 12
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+Done 80.0 %
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+generated outlier, not saving  439 17
+generated outlier, not saving  439 19
+generated outlier, not saving  439 21
+generated outlier, not saving  439 23
+generated outlier, not saving  439 25
+generated outlier, not saving  439 26
+generated outlier, not saving  439 27
+generated outlier, not saving  439 28
+generated outlier, not saving  439 29
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+input already causes different outputs: 3, 2, 2
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+Done 90.0 %
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.739
+averaged covered neurons 0.675
+generated outlier, not saving  458 19
+generated outlier, not saving  458 20
+generated outlier, not saving  458 21
+generated outlier, not saving  458 22
+generated outlier, not saving  458 23
+generated outlier, not saving  458 24
+generated outlier, not saving  458 25
+generated outlier, not saving  458 26
+generated outlier, not saving  458 27
+generated outlier, not saving  458 28
+generated outlier, not saving  458 29
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.743
+averaged covered neurons 0.677
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.743
+averaged covered neurons 0.677
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.743
+averaged covered neurons 0.677
+input already causes different outputs: 7, 2, 2
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.743
+averaged covered neurons 0.677
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.743
+averaged covered neurons 0.677
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.743
+averaged covered neurons 0.677
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.743
+averaged covered neurons 0.677
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.743
+averaged covered neurons 0.677
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.743
+averaged covered neurons 0.677
+input already causes different outputs: 4, 4, 9
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.743
+averaged covered neurons 0.677
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.743
+averaged covered neurons 0.677
+generated outlier, not saving  495 2
+generated outlier, not saving  495 3
+generated outlier, not saving  495 4
+generated outlier, not saving  495 5
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.746
+averaged covered neurons 0.679
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.746
+averaged covered neurons 0.679
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.662, 268 neurons 0.746
+averaged covered neurons 0.679
+generated outlier, not saving  499 21
+generated outlier, not saving  499 22
+generated outlier, not saving  499 23
+generated outlier, not saving  499 24
+generated outlier, not saving  499 25
+generated outlier, not saving  499 26
+generated outlier, not saving  499 27
+generated outlier, not saving  499 28
+generated outlier, not saving  499 29
+
+**** Result ****
+No of test inputs generated:  129
+Cumulative coverage for tests:  0.746
+Avg. test generation time: 370 s
+Total time: 47678.97 s
+
+
+
+Namespace(grad_iterations=30, occlusion_size=(10, 10), seeds=500, start_point=(0, 0), step=0.1, target_model=2, threshold=0.25, transformation='blackout', weight_diff=3.0, weight_nc=0.5, weight_vae=0.1)
+
+
+
+[94mModel1 loaded[0m
+[94mModel2 loaded[0m
+[94mModel3 loaded[0m
+*****Running VAE+Baseline test....
+Using transformation:  blackout
+Done 0.0 %
+input already causes different outputs: 3, 9, 9
+covered neurons percentage 52 neurons 0.192, 148 neurons 0.169, 268 neurons 0.131
+averaged covered neurons 0.150
+covered neurons percentage 52 neurons 0.269, 148 neurons 0.338, 268 neurons 0.265
+averaged covered neurons 0.288
+input already causes different outputs: 5, 5, 8
+covered neurons percentage 52 neurons 0.308, 148 neurons 0.392, 268 neurons 0.343
+averaged covered neurons 0.355
+Done 10.0 %
+input already causes different outputs: 9, 8, 8
+covered neurons percentage 52 neurons 0.308, 148 neurons 0.419, 268 neurons 0.377
+averaged covered neurons 0.382
+input already causes different outputs: 0, 8, 8
+covered neurons percentage 52 neurons 0.327, 148 neurons 0.486, 268 neurons 0.407
+averaged covered neurons 0.423
+Done 20.0 %
+covered neurons percentage 52 neurons 0.327, 148 neurons 0.486, 268 neurons 0.433
+averaged covered neurons 0.438
+input already causes different outputs: 0, 6, 0
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.534, 268 neurons 0.466
+averaged covered neurons 0.474
+Done 30.0 %
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.554, 268 neurons 0.489
+averaged covered neurons 0.494
+Done 40.0 %
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.561, 268 neurons 0.493
+averaged covered neurons 0.498
+Done 50.0 %
+input already causes different outputs: 6, 6, 8
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.574, 268 neurons 0.515
+averaged covered neurons 0.515
+input already causes different outputs: 2, 0, 9
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.581, 268 neurons 0.545
+averaged covered neurons 0.534
+input already causes different outputs: 2, 2, 0
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.581, 268 neurons 0.549
+averaged covered neurons 0.536
+Done 60.0 %
+input already causes different outputs: 5, 8, 8
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.601, 268 neurons 0.571
+averaged covered neurons 0.556
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.601, 268 neurons 0.578
+averaged covered neurons 0.560
+input already causes different outputs: 0, 8, 8
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.601, 268 neurons 0.578
+averaged covered neurons 0.560
+input already causes different outputs: 9, 5, 9
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.601, 268 neurons 0.578
+averaged covered neurons 0.560
+Done 70.0 %
+input already causes different outputs: 3, 2, 2
+covered neurons percentage 52 neurons 0.346, 148 neurons 0.601, 268 neurons 0.590
+averaged covered neurons 0.566
+covered neurons percentage 52 neurons 0.365, 148 neurons 0.628, 268 neurons 0.612
+averaged covered neurons 0.590
+Done 80.0 %
+input already causes different outputs: 3, 2, 2
+covered neurons percentage 52 neurons 0.365, 148 neurons 0.628, 268 neurons 0.619
+averaged covered neurons 0.594
+Done 90.0 %
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.649, 268 neurons 0.646
+averaged covered neurons 0.618
+input already causes different outputs: 7, 2, 2
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.657
+averaged covered neurons 0.626
+input already causes different outputs: 4, 4, 9
+covered neurons percentage 52 neurons 0.385, 148 neurons 0.655, 268 neurons 0.660
+averaged covered neurons 0.628
+
+**** Result ****
+No of test inputs generated:  7
+Cumulative coverage for tests:  0.66
+Avg. test generation time: 6609 s
+Total time: 46265.04 s
+
+
+

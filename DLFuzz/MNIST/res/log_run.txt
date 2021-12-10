@@ -1,0 +1,556 @@
+[94mModel3 loaded[0m
+Done 0.0 %
+covered neurons percentage 268 neurons 0.168
+covered neurons percentage 268 neurons 0.317
+covered neurons percentage 268 neurons 0.455
+covered neurons percentage 268 neurons 0.534
+covered neurons percentage 268 neurons 0.567
+covered neurons percentage 268 neurons 0.571
+covered neurons percentage 268 neurons 0.575
+covered neurons percentage 268 neurons 0.582
+covered neurons percentage 268 neurons 0.590
+covered neurons percentage 268 neurons 0.593
+Done 2.0 %
+covered neurons percentage 268 neurons 0.593
+covered neurons percentage 268 neurons 0.604
+covered neurons percentage 268 neurons 0.649
+covered neurons percentage 268 neurons 0.657
+covered neurons percentage 268 neurons 0.675
+covered neurons percentage 268 neurons 0.675
+covered neurons percentage 268 neurons 0.675
+covered neurons percentage 268 neurons 0.675
+covered neurons percentage 268 neurons 0.679
+covered neurons percentage 268 neurons 0.690
+Done 4.0 %
+covered neurons percentage 268 neurons 0.690
+covered neurons percentage 268 neurons 0.690
+covered neurons percentage 268 neurons 0.694
+covered neurons percentage 268 neurons 0.694
+covered neurons percentage 268 neurons 0.701
+covered neurons percentage 268 neurons 0.709
+covered neurons percentage 268 neurons 0.709
+covered neurons percentage 268 neurons 0.716
+covered neurons percentage 268 neurons 0.716
+covered neurons percentage 268 neurons 0.716
+Done 6.0 %
+covered neurons percentage 268 neurons 0.724
+covered neurons percentage 268 neurons 0.724
+covered neurons percentage 268 neurons 0.728
+covered neurons percentage 268 neurons 0.728
+covered neurons percentage 268 neurons 0.728
+covered neurons percentage 268 neurons 0.731
+covered neurons percentage 268 neurons 0.731
+covered neurons percentage 268 neurons 0.731
+covered neurons percentage 268 neurons 0.731
+covered neurons percentage 268 neurons 0.731
+Done 8.0 %
+covered neurons percentage 268 neurons 0.735
+covered neurons percentage 268 neurons 0.735
+covered neurons percentage 268 neurons 0.735
+covered neurons percentage 268 neurons 0.735
+covered neurons percentage 268 neurons 0.739
+covered neurons percentage 268 neurons 0.739
+covered neurons percentage 268 neurons 0.739
+covered neurons percentage 268 neurons 0.739
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+Done 10.0 %
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+Done 12.0 %
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+Done 14.000000000000002 %
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.743
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+Done 16.0 %
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+Done 18.0 %
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+Done 20.0 %
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+Done 22.0 %
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+Done 24.0 %
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.746
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+Done 26.0 %
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+Done 28.000000000000004 %
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+Done 30.0 %
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.750
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+Done 32.0 %
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+Done 34.0 %
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+Done 36.0 %
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+Done 38.0 %
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.754
+covered neurons percentage 268 neurons 0.757
+Done 40.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 42.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 44.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 46.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 48.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 50.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 52.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 54.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 56.00000000000001 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 57.99999999999999 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 60.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 62.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 64.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 66.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 68.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 70.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 72.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 74.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+Done 76.0 %
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.757
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+Done 78.0 %
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+Done 80.0 %
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+Done 82.0 %
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+Done 84.0 %
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+Done 86.0 %
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+Done 88.0 %
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+Done 90.0 %
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+Done 92.0 %
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+Done 94.0 %
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+Done 96.0 %
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+Done 98.0 %
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+covered neurons percentage 268 neurons 0.761
+Done in:  63665.1420943737
+covered neurons percentage 268 neurons 0.761
+average_norm = 1.107357565287886
+adversial num = 145
+average perb adversial = 0.12470077484332281
