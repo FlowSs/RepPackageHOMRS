@@ -48,7 +48,7 @@ List files:
 
 * `log_run_{i}.txt`: the run log containing the time information (as well as coverage and number of generated images)
 
-### In Section Discussion expperiment
+### In Section Discussion experiment
 
 The files used for the experiment that was done to discuss VAE limitations (see Section Discussion of the paper) can be found in `Distribution../MNIST` under `
 vae_res_thresh_adv.txt`. The adversarial dataset is the same that is present in the .zip that is situated in `HOMRS/MNIST/datasets/` which contains also the ood datasets that were used to compute the uncertainty profile.
